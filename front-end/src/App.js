@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Typography, Grid, Fade, makeStyles } from "@material-ui/core";
+import PRMap from "./PRMap.js";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -11,14 +12,17 @@ const App = (props) => {
   const classes = useStyles();
   const apiLink = "your api link here";
   const [userLat, setUserLat] = useState(null);
-  const [userLon, setUserLon] = useState(null);
+  const [userLong, setUserLong] = useState(null);
   const getUserPosition = () => {
     // example to show how to retrieve current user position.
     navigator.geolocation.getCurrentPosition(function (position) {
       setUserLat(position.coords.latitude);
-      setUserLon(position.coords.longitude);
+      setUserLong(position.coords.longitude);
     });
   };
-  return <Typography> Hello World </Typography>;
+  return (
+    <PRMap userLat = {userLat} userLong = {userLong}
+    ></PRMap>
+  )
 };
 export default App;
