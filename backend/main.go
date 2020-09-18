@@ -1,6 +1,7 @@
-package main
+package main // dont even question it. dont ask the one person who is suppose to know this. :) he's trying his best
 
 import "github.com/gin-gonic/gin" //every import path is a url
+import "io/ioutil"
 
 type header struct{ // type nameoftype descriptionoftype
   Id int
@@ -9,14 +10,27 @@ type header struct{ // type nameoftype descriptionoftype
 }
 
 func main() {
-	r := gin.Default() //creates a gin server
-	r.GET("/ping", func(c *gin.Context) { // creates a handler to handle the get request, takes a pointer to a gin context
+	r := gin.Default() //creates a gin server (r like router)
+	r.GET("/ping", func(c *gin.Context) { // first parameter = path , second = handling creates a handler to handle the get request, takes a pointer to a gin context
     h := header{Id: 5, Value: "a", Remainder:1.2}
   	c.JSON(200, h)
 	})
   r.GET("/restrooms", fetchAll)
+  r.GET("/parks", getBathrooms)
 	r.Run() // listen and serve on 0.0.0.0:8080 (for windows "localhost:8080")
 
+}
+
+func getBathrooms(c *gin.Context){
+  dat, err := ioutil.ReadFile("./bathroomListings.json")
+  if err != nil {
+    c.JSON(500, err)
+    return
+  }
+  data := string(dat)
+  c.Header("Content-Type","application/json")
+  c.String(200, data)
+  return
 }
 
 func fetchAll(c *gin.Context ){
@@ -32,4 +46,5 @@ func fetchAll(c *gin.Context ){
   c.JSON(200, arr)
 
 }
+
 // lowercase is private

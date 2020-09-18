@@ -3,8 +3,6 @@ import re
 import json
 
 def parse():
-    counter = 0
-    bathroomLinks = []
     dict = {}
     file = open('./bathroomList.html', 'r')
     data = file.read()
@@ -20,14 +18,15 @@ def parse():
             tds = tr.find_all('td')
             name = tds[0].get_text().encode('utf-8')
             link = tds[1].a['href']
+
             br = str(tds[1]).find('<br/>') + 5
-            closingTd = str(tds[1]).find('</td>')
-            location = str(tds[1])[br:closingTd]
+
+            location = str(tds[1])[br:-5].strip()
             if len(tds) == 3:
                 accessible = True
 
             innerDict['link'] = link
-            innerDict['location'] = location
+            innerDict['location'] = location.replace('&amp;', '&')
             innerDict['accessible'] = accessible
             dict[name] = innerDict
 

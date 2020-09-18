@@ -7,12 +7,12 @@
     "Murray Playground": {
         "accessible": false, 
         "link": "/parks/murray-playground", 
-        "location": "21 Street, 45 Avenue, 11 Street, 45 Road\n                  <div class=\"alert alert-error\" style=\"margin-top:15px\">\n                     This facility is currently closed. <a class=\"show-closure\" href=\"#\">Details</a>\n<div class=\"closure-message\" style=\"margin-top:15px;\">A portion of John F. Murray Playground is currently under construction. The playground and field areas continue to be accessible while this project is underway.  This renovation includes new lawns, tiered seating, a performance area, a new source water for the dog run, additional trees and plantings, and new fencing.</div>\n</div>\n"
+        "location": "21 Street, 45 Avenue, 11 Street, 45 Road"
     }, 
     "Poor Richard's Playground": {
         "accessible": false, 
         "link": "/parks/poor-richards-playground", 
-        "location": "East 109 Street between 2 &amp; 3 avenues"
+        "location": "East 109 Street between 2 & 3 avenues"
     }, 
     "London Planetree Playground": {
         "accessible": false, 
@@ -22,12 +22,12 @@
     "Real Good Playground": {
         "accessible": false, 
         "link": "/parks/real-good-playground", 
-        "location": "LIE, 99 Street &amp; 62 Avenue"
+        "location": "LIE, 99 Street & 62 Avenue"
     }, 
     "Arlington \"Ollie\" Edinboro Playground": {
         "accessible": false, 
         "link": "/parks/st-nicholas-park", 
-        "location": "West 140 Street &amp; St. Nicholas Avenue"
+        "location": "West 140 Street & St. Nicholas Avenue"
     }, 
     "Fire Boat House": {
         "accessible": false, 
@@ -47,17 +47,17 @@
     "Stroud Playground": {
         "accessible": false, 
         "link": "/parks/stroud-playground", 
-        "location": "Classon Avenue &amp; Sterling Place"
+        "location": "Classon Avenue & Sterling Place"
     }, 
     "Barretto Point Park": {
         "accessible": false, 
         "link": "/parks/X307", 
-        "location": "Tiffany Street &amp; Viele Avenue"
+        "location": "Tiffany Street & Viele Avenue"
     }, 
     "Surf Playground": {
         "accessible": false, 
         "link": "/parks/surf-playground", 
-        "location": "West 27 Street &amp; Surf Avenue"
+        "location": "West 27 Street & Surf Avenue"
     }, 
     "Rockaway Beach": {
         "accessible": false, 
@@ -77,17 +77,17 @@
     "Claremont Zone 1": {
         "accessible": false, 
         "link": "/parks/claremont-park", 
-        "location": "East 170th Street &amp; Teller Avenue"
+        "location": "East 170th Street & Teller Avenue"
     }, 
     "Frontera Park": {
         "accessible": false, 
         "link": "/parks/frontera-park", 
-        "location": "Between 55th Dr. &amp; 58th Ave. and Between Brown Pl. &amp; 69th St."
+        "location": "Between 55th Dr. & 58th Ave. and Between Brown Pl. & 69th St."
     }, 
     "Yellowstone Park": {
         "accessible": false, 
         "link": "/parks/yellowstone-park", 
-        "location": "Yellowstone Boulevard between 68 Avenue &amp; 68 Road"
+        "location": "Yellowstone Boulevard between 68 Avenue & 68 Road"
     }, 
     "Grove Hill Playground": {
         "accessible": false, 
@@ -97,7 +97,7 @@
     "Jackie Robinson Playground": {
         "accessible": false, 
         "link": "/parks/jackie-robinson-playground", 
-        "location": "Sullivan Place &amp; Franklin Avenue, Montgomery Street"
+        "location": "Sullivan Place & Franklin Avenue, Montgomery Street"
     }, 
     "Webster Playground": {
         "accessible": false, 
@@ -107,7 +107,7 @@
     "Meadow Lake Boathouse": {
         "accessible": false, 
         "link": "/parks/flushing-meadows-corona-park", 
-        "location": "Boathouse Bridge &amp; Meadow Lake Dr"
+        "location": "Boathouse Bridge & Meadow Lake Dr"
     }, 
     "Behagen Playground": {
         "accessible": false, 
@@ -132,12 +132,12 @@
     "96th Street Entrance": {
         "accessible": false, 
         "link": "/parks/shore-park-and-parkway", 
-        "location": "Shore Road &amp; 95th Street"
+        "location": "Shore Road & 95th Street"
     }, 
     "Mellett Playground": {
         "accessible": false, 
         "link": "/parks/mellett-playground", 
-        "location": "Avenue V between East 13 &amp; East 14 streets"
+        "location": "Avenue V between East 13 & East 14 streets"
     }, 
     "Haffen Park": {
         "accessible": false, 
@@ -147,7 +147,7 @@
     "Burns Playground": {
         "accessible": false, 
         "link": "/parks/burns-playground", 
-        "location": "Mace Ave. between Lodovick Ave. &amp; Gunther Ave."
+        "location": "Mace Ave. between Lodovick Ave. & Gunther Ave."
     }, 
     "Bethesda Terrace": {
         "accessible": false, 
@@ -172,7 +172,7 @@
     "Willis Playground": {
         "accessible": false, 
         "link": "/parks/willis-playground", 
-        "location": "East 139 Street, East 140 Street, Willis &amp; Alexander avenues"
+        "location": "East 139 Street, East 140 Street, Willis & Alexander avenues"
     }, 
     "The Great Hill": {
         "accessible": false, 
@@ -212,17 +212,17 @@
     "Pier 15": {
         "accessible": false, 
         "link": "/parks/east-river-waterfront-esplanade", 
-        "location": "FDR Drive &amp; Fletcher St."
+        "location": "FDR Drive & Fletcher St."
     }, 
     "McDonald Playground": {
         "accessible": false, 
         "link": "/parks/mcdonald-playground", 
-        "location": "Mcdonald Avenue, between avenues S &amp; T"
+        "location": "Mcdonald Avenue, between avenues S & T"
     }, 
     "Osborn Playground": {
         "accessible": false, 
         "link": "/parks/osborn-playground", 
-        "location": "Linden Boulevard &amp; Osborn Street"
+        "location": "Linden Boulevard & Osborn Street"
     }, 
     "Bushwick Inlet Park": {
         "accessible": false, 
@@ -232,7 +232,7 @@
     "Randall's Island Golf Center": {
         "accessible": false, 
         "link": "/parks/randalls-island", 
-        "location": "Central Road &amp; Bronx Shore Road"
+        "location": "Central Road & Bronx Shore Road"
     }, 
     "Evergreen Park": {
         "accessible": false, 
@@ -247,12 +247,12 @@
     "Playground 123": {
         "accessible": true, 
         "link": "/parks/morningside-park", 
-        "location": "West 123rd Street &amp; Morningside Avenue"
+        "location": "West 123rd Street & Morningside Avenue"
     }, 
     "Alley Pond Spring": {
         "accessible": false, 
         "link": "/parks/Q001", 
-        "location": "Springfield Boulevard, 73rd Avenue, 76th Avenue to tree line &amp; natural area"
+        "location": "Springfield Boulevard, 73rd Avenue, 76th Avenue to tree line & natural area"
     }, 
     "Wakefield Playground": {
         "accessible": false, 
@@ -277,12 +277,12 @@
     "Underhill Playground": {
         "accessible": false, 
         "link": "/parks/Q300A", 
-        "location": "Peck Avenue &amp; 188 Street"
+        "location": "Peck Avenue & 188 Street"
     }, 
     "Claremont Park": {
         "accessible": false, 
         "link": "/parks/claremont-park", 
-        "location": "Mount Eden Parkway &amp; Morris Avenue"
+        "location": "Mount Eden Parkway & Morris Avenue"
     }, 
     "Rev J Polite Playground": {
         "accessible": false, 
@@ -297,12 +297,12 @@
     "Chelsea Park": {
         "accessible": false, 
         "link": "/parks/chelsea-park", 
-        "location": "West 27 Street &amp; 9 Avenue"
+        "location": "West 27 Street & 9 Avenue"
     }, 
     "Yolanda Garc\u00eda Park": {
         "accessible": false, 
         "link": "/parks/yolanda-garcia-park", 
-        "location": "Melrose Ave. &amp; E. 159th St."
+        "location": "Melrose Ave. & E. 159th St."
     }, 
     "Admiral Playground": {
         "accessible": false, 
@@ -322,7 +322,7 @@
     "Richman (Echo) Park Upper Level": {
         "accessible": false, 
         "link": "/parks/richman-echo-park", 
-        "location": "East 178 Street &amp; Ryer Avenue, Upper Level"
+        "location": "East 178 Street & Ryer Avenue, Upper Level"
     }, 
     "Shore Road Park and Parkway": {
         "accessible": false, 
@@ -352,7 +352,7 @@
     "Sperandeo Brothers Playground": {
         "accessible": false, 
         "link": "/parks/sperandeo-brothers-playground", 
-        "location": "Atlantic Avenue &amp; Elton Street"
+        "location": "Atlantic Avenue & Elton Street"
     }, 
     "Hunter Island Picnic Area": {
         "accessible": false, 
@@ -382,17 +382,17 @@
     "Upper Picnic Area": {
         "accessible": false, 
         "link": "/parks/cunningham-park", 
-        "location": "North of Grand Central Parkway to ballfields &amp; tennis courts between 193rd Stre*"
+        "location": "North of Grand Central Parkway to ballfields & tennis courts between 193rd Stre*"
     }, 
     "Jesse Owens Playground": {
         "accessible": false, 
         "link": "/parks/jesse-owens-playground", 
-        "location": "Stuyvesant &amp; Lafayette avenues\n                  <div class=\"alert alert-error\" style=\"margin-top:15px\">\n                     This facility is currently closed. <a class=\"show-closure\" href=\"#\">Details</a>\n<div class=\"closure-message\" style=\"margin-top:15px;\">The pool at Jesse Owens Playground is currently closed for reconstruction through the City's Community Parks Initiative. Please follow our construction progress on this park's <a href=\"/planning-and-building/capital-project-tracker/project/7412\">Capital Projects Tracker</a> page.</div>\n</div>\n"
+        "location": "Stuyvesant & Lafayette avenues"
     }, 
     "Roebling Playground": {
         "accessible": false, 
         "link": "/parks/roebling-playground", 
-        "location": "Wilson &amp; Lee avenues, Taylor Street"
+        "location": "Wilson & Lee avenues, Taylor Street"
     }, 
     "Joseph Yancey Track & Field": {
         "accessible": false, 
@@ -402,27 +402,27 @@
     "Coffey Park": {
         "accessible": false, 
         "link": "/parks/coffey-park", 
-        "location": "King, Richards, &amp; Dwight Streets"
+        "location": "King, Richards, & Dwight Streets"
     }, 
     "Eleanor Roosevelt Playground": {
         "accessible": false, 
         "link": "/parks/eleanor-roosevelt-playground", 
-        "location": "Lewis &amp; DeKalb avenues"
+        "location": "Lewis & DeKalb avenues"
     }, 
     "Coleman Playground": {
         "accessible": false, 
         "link": "/parks/coleman-playground", 
-        "location": "Between Cherry &amp; Monroe streets"
+        "location": "Between Cherry & Monroe streets"
     }, 
     "Pena Herrera Playground": {
         "accessible": false, 
         "link": "/parks/pena-herrera-park", 
-        "location": "46 &amp; 47 streets, 3 Avenue"
+        "location": "46 & 47 streets, 3 Avenue"
     }, 
     "Tiger Playground": {
         "accessible": false, 
         "link": "/parks/tiger-playground", 
-        "location": "Evergreen Avenue &amp; Eldert Street"
+        "location": "Evergreen Avenue & Eldert Street"
     }, 
     "Bennett Park": {
         "accessible": false, 
@@ -437,7 +437,7 @@
     "Dinosaur Playground": {
         "accessible": false, 
         "link": "/parks/riverside-park", 
-        "location": "97th Street &amp; Riverside Drive"
+        "location": "97th Street & Riverside Drive"
     }, 
     "Jennifer's Playground": {
         "accessible": false, 
@@ -447,22 +447,22 @@
     "Playland Playground": {
         "accessible": false, 
         "link": "/parks/fdr-boardwalk-and-beach", 
-        "location": "Sand Lane &amp; Father Capodanno Blvd."
+        "location": "Sand Lane & Father Capodanno Blvd."
     }, 
     "Levy Playground": {
         "accessible": false, 
         "link": "/parks/levy-playground", 
-        "location": "Jewett &amp; Castleton avenues"
+        "location": "Jewett & Castleton avenues"
     }, 
     "Riverbank Playground": {
         "accessible": false, 
         "link": "/parks/northernriversidepark", 
-        "location": "West 142 Street &amp; Riverside Drive"
+        "location": "West 142 Street & Riverside Drive"
     }, 
     "Harold Schneiderman Playground": {
         "accessible": false, 
         "link": "/parks/harold-schneiderman-playground", 
-        "location": "155 Avenue &amp; 83 Street"
+        "location": "155 Avenue & 83 Street"
     }, 
     "Devoe Park": {
         "accessible": false, 
@@ -487,12 +487,12 @@
     "Corporal John A. Seravalli Playground": {
         "accessible": false, 
         "link": "/parks/corporal-john-a-seravalli-playground", 
-        "location": "Hudson &amp; Horatio streets"
+        "location": "Hudson & Horatio streets"
     }, 
     "Gravesend Park": {
         "accessible": false, 
         "link": "/parks/gravesend-park", 
-        "location": "18 Avenue &amp; 56 Street"
+        "location": "18 Avenue & 56 Street"
     }, 
     "Fox Playground": {
         "accessible": false, 
@@ -512,17 +512,17 @@
     "Monsignor Kett Playground": {
         "accessible": false, 
         "link": "/parks/monsignor-kett-playground", 
-        "location": "West 204 Street &amp; Nagle Avenue"
+        "location": "West 204 Street & Nagle Avenue"
     }, 
     "Horace Harding Playground": {
         "accessible": false, 
         "link": "/parks/horace-harding-playground", 
-        "location": "62 Drive between 97 Place &amp; 98 Street"
+        "location": "62 Drive between 97 Place & 98 Street"
     }, 
     "Wallenberg Playground": {
         "accessible": false, 
         "link": "/parks/highbridge-park", 
-        "location": "W. 189th St. &amp; Amsterdam Ave."
+        "location": "W. 189th St. & Amsterdam Ave."
     }, 
     "Columbus Park Pavilion": {
         "accessible": false, 
@@ -532,12 +532,12 @@
     "Nostrand Playground": {
         "accessible": false, 
         "link": "/parks/nostrand-playground", 
-        "location": "Nostrand &amp; Foster avenues"
+        "location": "Nostrand & Foster avenues"
     }, 
     "Fermi Playground": {
         "accessible": false, 
         "link": "/parks/fermi-playground", 
-        "location": "Troutman Street &amp; Central Avenue"
+        "location": "Troutman Street & Central Avenue"
     }, 
     "Frederick Johnson Playground": {
         "accessible": false, 
@@ -547,7 +547,7 @@
     "Matthew P. Sapolin Playground": {
         "accessible": false, 
         "link": "/parks/mathew-p-sapolin-playground", 
-        "location": "West End Avenue &amp; West 70 Street"
+        "location": "West End Avenue & West 70 Street"
     }, 
     "Nelson Playground": {
         "accessible": false, 
@@ -557,7 +557,7 @@
     "John Jay Park": {
         "accessible": false, 
         "link": "/parks/john-jay-park-and-pool", 
-        "location": "East 76-East 78 streets &amp; Cherokee Place"
+        "location": "East 76-East 78 streets & Cherokee Place"
     }, 
     "Playground 174": {
         "accessible": false, 
@@ -567,22 +567,22 @@
     "Seward Park": {
         "accessible": false, 
         "link": "/parks/seward-park", 
-        "location": "Jefferson &amp; Canal streets"
+        "location": "Jefferson & Canal streets"
     }, 
     "High Rock Visitors Center": {
         "accessible": false, 
         "link": "/parks/R088", 
-        "location": "Paw Trail &amp; Red Dot Trail"
+        "location": "Paw Trail & Red Dot Trail"
     }, 
     "Henry Hudson Park": {
         "accessible": false, 
         "link": "/parks/henry-hudson-park", 
-        "location": "Palisade Avenue, Kappock Street &amp; Independence Avenue"
+        "location": "Palisade Avenue, Kappock Street & Independence Avenue"
     }, 
     "St Mary's Playground West": {
         "accessible": false, 
         "link": "/parks/st-marys-park", 
-        "location": "St. Ann's Avenue &amp; East 147 Street"
+        "location": "St. Ann's Avenue & East 147 Street"
     }, 
     "DEHOSTOS CS": {
         "accessible": false, 
@@ -592,12 +592,12 @@
     "Albemarle Playground": {
         "accessible": false, 
         "link": "/parks/albemarle-playground", 
-        "location": "Albermarle Road &amp; Dahill Road"
+        "location": "Albermarle Road & Dahill Road"
     }, 
     "Calvert Vaux Playground": {
         "accessible": false, 
         "link": "/parks/calvert-vaux-park", 
-        "location": "Cropsey Ave. Between 27th Ave. &amp; Bay 46th St."
+        "location": "Cropsey Ave. Between 27th Ave. & Bay 46th St."
     }, 
     "St. Michael's Playground": {
         "accessible": false, 
@@ -607,12 +607,12 @@
     "Stewart Playground": {
         "accessible": false, 
         "link": "/parks/parade-ground", 
-        "location": "Parade Pl. between Woodruff Ave. &amp; Crooke Ave."
+        "location": "Parade Pl. between Woodruff Ave. & Crooke Ave."
     }, 
     "Morningside Playground": {
         "accessible": false, 
         "link": "/parks/morningside-park", 
-        "location": "West 117th Street &amp; Morningside Avenue"
+        "location": "West 117th Street & Morningside Avenue"
     }, 
     "Mill Pond Park": {
         "accessible": false, 
@@ -627,12 +627,12 @@
     "The Battery Comfort Station": {
         "accessible": false, 
         "link": "/parks/battery-park", 
-        "location": "Battery Pl. &amp; Washington St."
+        "location": "Battery Pl. & Washington St."
     }, 
     "Greene Playground": {
         "accessible": false, 
         "link": "/parks/greeneplayground", 
-        "location": "Greene &amp; Washington avenues"
+        "location": "Greene & Washington avenues"
     }, 
     "St. Nicholas Playground at West 129th St.": {
         "accessible": false, 
@@ -642,12 +642,12 @@
     "Walker Park": {
         "accessible": false, 
         "link": "/parks/walker-park", 
-        "location": "Delafield Pl. &amp; Bard Ave."
+        "location": "Delafield Pl. & Bard Ave."
     }, 
     "Sarsfield Playground": {
         "accessible": false, 
         "link": "/parks/sarsfield-playground", 
-        "location": "East 38 Street &amp; Ryder Street, Avenue M"
+        "location": "East 38 Street & Ryder Street, Avenue M"
     }, 
     "The Ramble": {
         "accessible": false, 
@@ -702,12 +702,12 @@
     "McCaffrey Playground": {
         "accessible": false, 
         "link": "/parks/mccaffrey-playground", 
-        "location": "West 43 Street, 8 &amp; 9 avenues"
+        "location": "West 43 Street, 8 & 9 avenues"
     }, 
     "Stanley Isaacs Playground": {
         "accessible": false, 
         "link": "/parks/stanley-isaacs-playground", 
-        "location": "East 96-97 streets &amp; FDR Drive"
+        "location": "East 96-97 streets & FDR Drive"
     }, 
     "Hoffman Park": {
         "accessible": false, 
@@ -717,12 +717,12 @@
     "Playground Seventy Five": {
         "accessible": false, 
         "link": "/parks/playground-seventy-five", 
-        "location": "160 Street &amp; 75 Avenue"
+        "location": "160 Street & 75 Avenue"
     }, 
     "Kelly Park Playground": {
         "accessible": false, 
         "link": "/parks/kelly-park-playground", 
-        "location": "Avenue S, East 14 &amp; East 15 streets"
+        "location": "Avenue S, East 14 & East 15 streets"
     }, 
     "Waring Playground": {
         "accessible": false, 
@@ -732,7 +732,7 @@
     "Herman Dolgon Playground": {
         "accessible": false, 
         "link": "/parks/herman-dolgon-playground", 
-        "location": "Avenue V &amp; Nostrand Avenue"
+        "location": "Avenue V & Nostrand Avenue"
     }, 
     "Riverside Clay Tennis Courts": {
         "accessible": false, 
@@ -747,7 +747,7 @@
     "Ehrenreich-Austin Playground": {
         "accessible": false, 
         "link": "/parks/ehrenreich-austin-playground", 
-        "location": "Austin Street between 76 Avenue &amp; 76 Drive"
+        "location": "Austin Street between 76 Avenue & 76 Drive"
     }, 
     "Hamilton Metz Field": {
         "accessible": false, 
@@ -767,7 +767,7 @@
     "Pink Playground": {
         "accessible": false, 
         "link": "/parks/pink-playground", 
-        "location": "Stanley Avenue &amp; Eldert Lane"
+        "location": "Stanley Avenue & Eldert Lane"
     }, 
     "Chester Playground": {
         "accessible": false, 
@@ -777,7 +777,7 @@
     "Nicholas Naquan Heyward Jr. Park": {
         "accessible": false, 
         "link": "/parks/nicholas-naquan-heyward-jr-park", 
-        "location": "Wyckoff Street between Bond &amp; Hoyt streets"
+        "location": "Wyckoff Street between Bond & Hoyt streets"
     }, 
     "Holcombe Rucker Park": {
         "accessible": false, 
@@ -787,7 +787,7 @@
     "College Point Blvd Soccer Fields": {
         "accessible": false, 
         "link": "/parks/flushing-meadows-corona-park", 
-        "location": "Fowler Avenue &amp; College Point Blvd, behind Al Oerter Recreation Center"
+        "location": "Fowler Avenue & College Point Blvd, behind Al Oerter Recreation Center"
     }, 
     "Travers Park": {
         "accessible": false, 
@@ -797,12 +797,12 @@
     "Washington Market Park": {
         "accessible": false, 
         "link": "/parks/washington-market-park", 
-        "location": "Greenwich St. &amp; Chambers St."
+        "location": "Greenwich St. & Chambers St."
     }, 
     "Westbourne Playground": {
         "accessible": false, 
         "link": "/parks/westbourne-playground", 
-        "location": "Mott Avenue &amp; Bay 25 Street"
+        "location": "Mott Avenue & Bay 25 Street"
     }, 
     "Nautilus Playground": {
         "accessible": false, 
@@ -817,7 +817,7 @@
     "Park Slope Playground": {
         "accessible": false, 
         "link": "/parks/park-slope-playground", 
-        "location": "Berkeley Street &amp; Lincoln Place"
+        "location": "Berkeley Street & Lincoln Place"
     }, 
     "St. Nicholas Playground North": {
         "accessible": false, 
@@ -837,7 +837,7 @@
     "Anne Loftus Playground": {
         "accessible": false, 
         "link": "/parks/fort-tryon-park", 
-        "location": "Broadway &amp; Dyckman Street"
+        "location": "Broadway & Dyckman Street"
     }, 
     "Victory Field": {
         "accessible": false, 
@@ -857,7 +857,7 @@
     "Yak Playground": {
         "accessible": false, 
         "link": "/parks/yak-playground", 
-        "location": "Avenue Y between Coyle &amp; Batchelder streets"
+        "location": "Avenue Y between Coyle & Batchelder streets"
     }, 
     "Captain Rivera Playground": {
         "accessible": false, 
@@ -867,17 +867,17 @@
     "Bush Terminal Park": {
         "accessible": true, 
         "link": "/parks/bush-terminal-park", 
-        "location": "Marginal St. &amp; 43rd St"
+        "location": "Marginal St. & 43rd St"
     }, 
     "Lincoln Rd Playground": {
         "accessible": false, 
         "link": "/parks/B073", 
-        "location": "Lincoln Rd. &amp; Ocean Ave."
+        "location": "Lincoln Rd. & Ocean Ave."
     }, 
     "Ten Mile River Playground": {
         "accessible": false, 
         "link": "/parks/riverside-park-recreation-area", 
-        "location": "West 148 Street &amp; Hudson River"
+        "location": "West 148 Street & Hudson River"
     }, 
     "Van Cortlandt Nature Center": {
         "accessible": false, 
@@ -887,17 +887,17 @@
     "Kissena Playground": {
         "accessible": false, 
         "link": "/parks/kissena-park", 
-        "location": "Oak Avenue &amp; 164th Street"
+        "location": "Oak Avenue & 164th Street"
     }, 
     "Scylla Playground": {
         "accessible": false, 
         "link": "/parks/wards-island-park", 
-        "location": "Wards Meadow Loop &amp; Hell Gate Circle"
+        "location": "Wards Meadow Loop & Hell Gate Circle"
     }, 
     "Renaissance Playground": {
         "accessible": false, 
         "link": "/parks/renaissance-playground", 
-        "location": "West 144 Street, between 7 &amp; 8 avenues"
+        "location": "West 144 Street, between 7 & 8 avenues"
     }, 
     "Beach 97th Street": {
         "accessible": false, 
@@ -907,17 +907,17 @@
     "Stillwell Ave.": {
         "accessible": false, 
         "link": "/parks/coney-island-beach-and-boardwalk", 
-        "location": "Boardwalk between W. 10th St. &amp; Stillwell Ave."
+        "location": "Boardwalk between W. 10th St. & Stillwell Ave."
     }, 
     "Carroll Park": {
         "accessible": false, 
         "link": "/parks/carroll-park", 
-        "location": "Court &amp; Smith Streets"
+        "location": "Court & Smith Streets"
     }, 
     "Kennedy King Playground": {
         "accessible": false, 
         "link": "/parks/kennedy-king-playground", 
-        "location": "East 93 Street &amp; Lenox Road"
+        "location": "East 93 Street & Lenox Road"
     }, 
     "Cunningham Park Fields": {
         "accessible": false, 
@@ -927,7 +927,7 @@
     "Baisley Park South Playground": {
         "accessible": false, 
         "link": "/parks/baisley-pond-park", 
-        "location": "150th Street &amp; 130th Avenue"
+        "location": "150th Street & 130th Avenue"
     }, 
     "Columbus Park Playground": {
         "accessible": false, 
@@ -937,7 +937,7 @@
     "Redfern Playground": {
         "accessible": false, 
         "link": "/parks/redfern-playground", 
-        "location": "B 12 Street &amp; Redfern Avenue"
+        "location": "B 12 Street & Redfern Avenue"
     }, 
     "Hallets Cove Playground (area A)": {
         "accessible": false, 
@@ -952,7 +952,7 @@
     "Lindower Park": {
         "accessible": false, 
         "link": "/parks/lindower-park", 
-        "location": "Mill &amp; Strickland avenues, 60 Street"
+        "location": "Mill & Strickland avenues, 60 Street"
     }, 
     "Beach 106th Street": {
         "accessible": false, 
@@ -962,7 +962,7 @@
     "Bay Terrace Playground": {
         "accessible": false, 
         "link": "/parks/bay-terrace-playground", 
-        "location": "23 Avenue &amp; 212 Street"
+        "location": "23 Avenue & 212 Street"
     }, 
     "Marble Hill Playground": {
         "accessible": false, 
@@ -977,7 +977,7 @@
     "Marlboro Playground": {
         "accessible": false, 
         "link": "/parks/marlboro-playground", 
-        "location": "West 11 Street &amp; Avenue W"
+        "location": "West 11 Street & Avenue W"
     }, 
     "Gen. Douglas MacArthur Park": {
         "accessible": false, 
@@ -992,7 +992,7 @@
     "Pat Parlato Playground": {
         "accessible": false, 
         "link": "/parks/manhattan-beach-park", 
-        "location": "Ocean Ave. &amp; Oriental Blvd."
+        "location": "Ocean Ave. & Oriental Blvd."
     }, 
     "Arrochar Playground": {
         "accessible": false, 
@@ -1017,7 +1017,7 @@
     "St. Nicholas Playground South": {
         "accessible": false, 
         "link": "/parks/st-nicholas-playground-south", 
-        "location": "West 129 &amp; 7 Avenue"
+        "location": "West 129 & 7 Avenue"
     }, 
     "Passerelle Building": {
         "accessible": false, 
@@ -1027,22 +1027,22 @@
     "Millennium Playground": {
         "accessible": false, 
         "link": "/parks/leif-ericson-park", 
-        "location": "5th Ave. between 66th St. &amp; 67th St."
+        "location": "5th Ave. between 66th St. & 67th St."
     }, 
     "Star Spangled Playground": {
         "accessible": false, 
         "link": "/parks/star-spangled-playground", 
-        "location": "Franklin &amp; Willoughby avenues"
+        "location": "Franklin & Willoughby avenues"
     }, 
     "Challenge Playground": {
         "accessible": false, 
         "link": "/parks/challenge-playground", 
-        "location": "251 Street &amp; 63 Avenue"
+        "location": "251 Street & 63 Avenue"
     }, 
     "Maurice A Fitzgerald Playground": {
         "accessible": false, 
         "link": "/parks/maurice-a-fitzgerald-playground", 
-        "location": "Atlantic Avenue &amp; 106 Street"
+        "location": "Atlantic Avenue & 106 Street"
     }, 
     "Slattery Playground": {
         "accessible": false, 
@@ -1057,12 +1057,12 @@
     "Haggerty Park": {
         "accessible": false, 
         "link": "/parks/haggerty-park", 
-        "location": "202 Street &amp; Jamaica Avenue"
+        "location": "202 Street & Jamaica Avenue"
     }, 
     "Josephine Caminiti Playground": {
         "accessible": false, 
         "link": "/parks/josephine-caminiti-playground", 
-        "location": "Alystine Avenue &amp; 102 Street"
+        "location": "Alystine Avenue & 102 Street"
     }, 
     "McKinley Park": {
         "accessible": false, 
@@ -1072,12 +1072,12 @@
     "South Of Fountain Of The Planets": {
         "accessible": false, 
         "link": "/parks/flushing-meadows-corona-park", 
-        "location": "mid-Park, between Avenue of Commerce &amp; Avenue of Progress"
+        "location": "mid-Park, between Avenue of Commerce & Avenue of Progress"
     }, 
     "Bildersee Playground": {
         "accessible": false, 
         "link": "/parks/bildersee-playground", 
-        "location": "Flatlands Avenue between East 81 &amp; East 82 streets"
+        "location": "Flatlands Avenue between East 81 & East 82 streets"
     }, 
     "Hilton White Playground": {
         "accessible": false, 
@@ -1087,7 +1087,7 @@
     "Harry Maze Playground": {
         "accessible": false, 
         "link": "/parks/harry-maze-playground", 
-        "location": "Avenue D between East 56 &amp; East 57 Street"
+        "location": "Avenue D between East 56 & East 57 Street"
     }, 
     "West 33rd Street": {
         "accessible": false, 
@@ -1097,12 +1097,12 @@
     "Playground For All Children": {
         "accessible": false, 
         "link": "/parks/pelham-bay-park", 
-        "location": "Bruckner Expressway &amp; Buhre Avenue"
+        "location": "Bruckner Expressway & Buhre Avenue"
     }, 
     "Delphin H. Greene Playground": {
         "accessible": false, 
         "link": "/parks/delphin-h-greene-playground", 
-        "location": "121 Avenue &amp; 237 Street"
+        "location": "121 Avenue & 237 Street"
     }, 
     "Lincoln Terrace Park / Arthur S. Somers Park": {
         "accessible": false, 
@@ -1122,27 +1122,27 @@
     "Canarsie Park": {
         "accessible": false, 
         "link": "/parks/canarsie-park", 
-        "location": "Seaview Ave. &amp; East 88th St."
+        "location": "Seaview Ave. & East 88th St."
     }, 
     "McCarren Park": {
         "accessible": false, 
         "link": "/parks/mccarren-park", 
-        "location": "Lorimer St. between Bedford Ave. &amp; Driggs Ave."
+        "location": "Lorimer St. between Bedford Ave. & Driggs Ave."
     }, 
     "Dry Harbor Playground": {
         "accessible": false, 
         "link": "/parks/Q015", 
-        "location": "80 Street &amp; Myrtle Avenue"
+        "location": "80 Street & Myrtle Avenue"
     }, 
     "Rudd Playground": {
         "accessible": false, 
         "link": "/parks/rudd-playground", 
-        "location": "Aberdeen Street &amp; Bushwick Avenue"
+        "location": "Aberdeen Street & Bushwick Avenue"
     }, 
     "Louis Armstrong Playground": {
         "accessible": false, 
         "link": "/parks/louis-armstrong-playground", 
-        "location": "37 Avenue between 112 &amp; 113 streets"
+        "location": "37 Avenue between 112 & 113 streets"
     }, 
     "Howard Bennett Playground": {
         "accessible": false, 
@@ -1167,7 +1167,7 @@
     "Ben Abrams Playground": {
         "accessible": false, 
         "link": "/parks/bronx-park", 
-        "location": "Lydig Avenue &amp; Bronx Park East"
+        "location": "Lydig Avenue & Bronx Park East"
     }, 
     "Mosholu Playground": {
         "accessible": false, 
@@ -1202,7 +1202,7 @@
     "Cary Leeds Tennis Center": {
         "accessible": false, 
         "link": "/parks/crotona-park", 
-        "location": "Crotona Avenue &amp; Crotona Park North"
+        "location": "Crotona Avenue & Crotona Park North"
     }, 
     "Gouverneur Playground": {
         "accessible": false, 
@@ -1222,32 +1222,32 @@
     "Crocheron Park": {
         "accessible": false, 
         "link": "/parks/crocheron-park", 
-        "location": "33rd Rd. &amp; 215th Pl."
+        "location": "33rd Rd. & 215th Pl."
     }, 
     "Baisley Pond Park House": {
         "accessible": false, 
         "link": "/parks/baisley-pond-park", 
-        "location": "Lakeview Blvd E. &amp; 122nd Ave"
+        "location": "Lakeview Blvd E. & 122nd Ave"
     }, 
     "Telephone Playground": {
         "accessible": false, 
         "link": "/parks/telephone-playground", 
-        "location": "Bell Boulevard, 75 Avenue &amp; 217 Street"
+        "location": "Bell Boulevard, 75 Avenue & 217 Street"
     }, 
     "Moore Homestead Playground": {
         "accessible": false, 
         "link": "/parks/moore-homestead-playground", 
-        "location": "Broadway &amp; 83 Street"
+        "location": "Broadway & 83 Street"
     }, 
     "P.O. Reinaldo Salgado Playground": {
         "accessible": false, 
         "link": "/parks/p-o-reinaldo-salgado-playground", 
-        "location": "Madison Street &amp; Patchen Avenue"
+        "location": "Madison Street & Patchen Avenue"
     }, 
     "Luna Park Plgd": {
         "accessible": false, 
         "link": "/parks/luna-park", 
-        "location": "W. 12th St. &amp; Surf Ave."
+        "location": "W. 12th St. & Surf Ave."
     }, 
     "B169-ZN02A-BLG9193": {
         "accessible": false, 
@@ -1257,7 +1257,7 @@
     "Lyons Square Playground": {
         "accessible": false, 
         "link": "/parks/lyons-square-playground", 
-        "location": "Aldus St. between Bryant Ave. &amp; Longfellow Ave."
+        "location": "Aldus St. between Bryant Ave. & Longfellow Ave."
     }, 
     "Moore Playground": {
         "accessible": false, 
@@ -1267,7 +1267,7 @@
     "Equity Playground": {
         "accessible": false, 
         "link": "/parks/equity-park", 
-        "location": "90 Street, 88 &amp; 89 avenues"
+        "location": "90 Street, 88 & 89 avenues"
     }, 
     "Fort Greene Park": {
         "accessible": false, 
@@ -1282,12 +1282,12 @@
     "Marconi Park": {
         "accessible": false, 
         "link": "/parks/marconi-park", 
-        "location": "109 Avenue &amp; 155 Street"
+        "location": "109 Avenue & 155 Street"
     }, 
     "Ferry Point Park East": {
         "accessible": false, 
         "link": "/parks/ferry-point-park", 
-        "location": "Balcom Avenue &amp; Dewey Avenue"
+        "location": "Balcom Avenue & Dewey Avenue"
     }, 
     "Bath Beach Park": {
         "accessible": false, 
@@ -1297,12 +1297,12 @@
     "Col. Young Playground": {
         "accessible": false, 
         "link": "/parks/col-young-playground", 
-        "location": "West 144 Street &amp; Lenox Avenue"
+        "location": "West 144 Street & Lenox Avenue"
     }, 
     "Slope Park Playground": {
         "accessible": false, 
         "link": "/parks/slope-park", 
-        "location": "6 Avenue Bet 18 &amp; 19 Sts"
+        "location": "6 Avenue Bet 18 & 19 Sts"
     }, 
     "Highbridge Pool": {
         "accessible": false, 
@@ -1317,17 +1317,17 @@
     "Tremont Park Playground": {
         "accessible": false, 
         "link": "/parks/tremont-park", 
-        "location": "Corner of East 175 Street &amp; Arthur Avenue"
+        "location": "Corner of East 175 Street & Arthur Avenue"
     }, 
     "Lower Highland Playground": {
         "accessible": false, 
         "link": "/parks/highland-park-b047", 
-        "location": "Jamaica Avenue &amp; Elton Street"
+        "location": "Jamaica Avenue & Elton Street"
     }, 
     "Oracle Playground": {
         "accessible": false, 
         "link": "/parks/oracle-playground", 
-        "location": "Adelphi &amp; Myrtle avenues"
+        "location": "Adelphi & Myrtle avenues"
     }, 
     "Dutch Kills Playground": {
         "accessible": false, 
@@ -1342,12 +1342,12 @@
     "East Springfield Playground": {
         "accessible": false, 
         "link": "/parks/east-springfield-playground", 
-        "location": "115 Road between 218 &amp; 219 streets"
+        "location": "115 Road between 218 & 219 streets"
     }, 
     "Benson Playground": {
         "accessible": false, 
         "link": "/parks/benson-playground", 
-        "location": "Bath Avenue between Bay 22 &amp; Bay 23 streets"
+        "location": "Bath Avenue between Bay 22 & Bay 23 streets"
     }, 
     "West 2nd Street": {
         "accessible": false, 
@@ -1357,7 +1357,7 @@
     "Marion Hopkinson Playground": {
         "accessible": false, 
         "link": "/parks/marion-hopkinson-playground", 
-        "location": "Hopkinson Avenue &amp; Marion Street"
+        "location": "Hopkinson Avenue & Marion Street"
     }, 
     "Corona Golf Playground": {
         "accessible": false, 
@@ -1367,12 +1367,12 @@
     "Newport Playground": {
         "accessible": false, 
         "link": "/parks/newport-playground", 
-        "location": "Newport Avenue &amp; Osborn Street"
+        "location": "Newport Avenue & Osborn Street"
     }, 
     "Seba Playground": {
         "accessible": false, 
         "link": "/parks/marine-park", 
-        "location": "Gerritsen Ave. &amp; Seba Ave."
+        "location": "Gerritsen Ave. & Seba Ave."
     }, 
     "Annadale Playground": {
         "accessible": false, 
@@ -1382,12 +1382,12 @@
     "Mathews-Palmer Playground": {
         "accessible": false, 
         "link": "/parks/matthews-palmer-playground", 
-        "location": "West 45 Street between 9 &amp; 10 avenues"
+        "location": "West 45 Street between 9 & 10 avenues"
     }, 
     "Glenwood Playground": {
         "accessible": false, 
         "link": "/parks/glenwood-playground", 
-        "location": "Ralph Avenue &amp; Farragut Road"
+        "location": "Ralph Avenue & Farragut Road"
     }, 
     "Bowne Playground": {
         "accessible": false, 
@@ -1397,7 +1397,7 @@
     "Bayview Playground": {
         "accessible": false, 
         "link": "/parks/bayview-playground", 
-        "location": "Seaview Avenue &amp; East 99 Street"
+        "location": "Seaview Avenue & East 99 Street"
     }, 
     "River Run Playground": {
         "accessible": false, 
@@ -1412,7 +1412,7 @@
     "Pfc Norton Playground": {
         "accessible": false, 
         "link": "/parks/pfc-norton-playground", 
-        "location": "Nostrand Avenue &amp; Marine Parkway"
+        "location": "Nostrand Avenue & Marine Parkway"
     }, 
     "Seton Park": {
         "accessible": false, 
@@ -1422,12 +1422,12 @@
     "Midland Field": {
         "accessible": false, 
         "link": "/parks/midland-field", 
-        "location": "Midland Avenue &amp; Mason Avenue"
+        "location": "Midland Avenue & Mason Avenue"
     }, 
     "Ampere Playground": {
         "accessible": false, 
         "link": "/parks/ampere-playground", 
-        "location": "101 Avenue &amp; 82 Street"
+        "location": "101 Avenue & 82 Street"
     }, 
     "Millbrook Playground": {
         "accessible": false, 
@@ -1437,7 +1437,7 @@
     "Woodlawn Playground": {
         "accessible": false, 
         "link": "/parks/VanCortlandtPark", 
-        "location": "West 239 Street &amp; Van Cortlandt East"
+        "location": "West 239 Street & Van Cortlandt East"
     }, 
     "Parkside Playground": {
         "accessible": false, 
@@ -1452,7 +1452,7 @@
     "Springfield Playground": {
         "accessible": false, 
         "link": "/parks/springfield-park", 
-        "location": "Near ballfields at 184th Street between 146 Rd &amp; 146 Ter"
+        "location": "Near ballfields at 184th Street between 146 Rd & 146 Ter"
     }, 
     "Gun Hill Playground": {
         "accessible": false, 
@@ -1462,7 +1462,7 @@
     "Christopher J. Igneri Playground": {
         "accessible": false, 
         "link": "/parks/christopher-j-igneri-playground", 
-        "location": "Schmidts Lane &amp; Manor Road"
+        "location": "Schmidts Lane & Manor Road"
     }, 
     "Tremont Park (Old Borough Hall)": {
         "accessible": false, 
@@ -1472,27 +1472,27 @@
     "Frederick B. Judge Playground": {
         "accessible": false, 
         "link": "/parks/frederick-b-judge-playground", 
-        "location": "111 Avenue, 134 &amp; 135 streets, Lincoln Street"
+        "location": "111 Avenue, 134 & 135 streets, Lincoln Street"
     }, 
     "Happy Warrior Playground": {
         "accessible": false, 
         "link": "/parks/happy-warrior-playground", 
-        "location": "West 98 Street &amp; Amsterdam Avenue"
+        "location": "West 98 Street & Amsterdam Avenue"
     }, 
     "Terrace Playground": {
         "accessible": false, 
         "link": "/parks/terrace-playground", 
-        "location": "Howard Avenue &amp; Martha Street"
+        "location": "Howard Avenue & Martha Street"
     }, 
     "Dyker Playground": {
         "accessible": false, 
         "link": "/parks/dyker-beach-park", 
-        "location": "86th Street &amp; 14th Avenue"
+        "location": "86th Street & 14th Avenue"
     }, 
     "Markham Playground": {
         "accessible": false, 
         "link": "/parks/markham-playground", 
-        "location": "Willowbrook Parkway, Forest Avenue &amp; Houston Street"
+        "location": "Willowbrook Parkway, Forest Avenue & Houston Street"
     }, 
     "People's Park": {
         "accessible": false, 
@@ -1507,17 +1507,17 @@
     "Judge Moses Weinstein Playground": {
         "accessible": false, 
         "link": "/parks/judge-moses-weinstein-playground", 
-        "location": "Vleigh Place &amp; 141 Street"
+        "location": "Vleigh Place & 141 Street"
     }, 
     "Sgt. William Dougherty Playground": {
         "accessible": false, 
         "link": "/parks/B096", 
-        "location": "Anthony St. &amp; Vandervoort Ave."
+        "location": "Anthony St. & Vandervoort Ave."
     }, 
     "E.M.T. Christopher J. Prescott Playground": {
         "accessible": false, 
         "link": "/parks/e-m-t-christopher-j-prescott-playground", 
-        "location": "Hylan Boulevard &amp; Huguenot Avenue"
+        "location": "Hylan Boulevard & Huguenot Avenue"
     }, 
     "Tiffany Playground": {
         "accessible": false, 
@@ -1532,7 +1532,7 @@
     "Phil \"Scooter\" Rizzuto Park": {
         "accessible": false, 
         "link": "/parks/phil-scooter-rizzuto-park", 
-        "location": "125 Street &amp; Atlantic Avenue"
+        "location": "125 Street & Atlantic Avenue"
     }, 
     "12 A": {
         "accessible": false, 
@@ -1547,7 +1547,7 @@
     "Castlewood Playground": {
         "accessible": false, 
         "link": "/parks/Q327", 
-        "location": "Little Neck Parkway &amp; 72 Avenue"
+        "location": "Little Neck Parkway & 72 Avenue"
     }, 
     "Owl's Head Park": {
         "accessible": false, 
@@ -1567,7 +1567,7 @@
     "Bayside Fields": {
         "accessible": false, 
         "link": "/parks/bayside-fields", 
-        "location": "204 Street &amp; 29 Avenue, Clearview Expressway"
+        "location": "204 Street & 29 Avenue, Clearview Expressway"
     }, 
     "Howard Von Dohlen Playground": {
         "accessible": false, 
@@ -1577,7 +1577,7 @@
     "Railroad Playground": {
         "accessible": false, 
         "link": "/parks/railroad-playground", 
-        "location": "Ditmas Avenue between East 91 &amp; East 92 streets"
+        "location": "Ditmas Avenue between East 91 & East 92 streets"
     }, 
     "Loreto Playground": {
         "accessible": false, 
@@ -1597,12 +1597,12 @@
     "8th Ave. & 66th St.": {
         "accessible": false, 
         "link": "/parks/leif-ericson-park", 
-        "location": "8th Ave. between 66th St. &amp; 67th St."
+        "location": "8th Ave. between 66th St. & 67th St."
     }, 
     "Playground Eighty LXXX": {
         "accessible": false, 
         "link": "/parks/playground-eighty-lxxx", 
-        "location": "80th Ave. between 261st St. &amp; 262nd. St."
+        "location": "80th Ave. between 261st St. & 262nd. St."
     }, 
     "Harris Playground": {
         "accessible": false, 
@@ -1612,7 +1612,7 @@
     "Breukelen Playground": {
         "accessible": false, 
         "link": "/parks/breukelen-ballfields", 
-        "location": "Louisiana &amp; Flatlands Avenue"
+        "location": "Louisiana & Flatlands Avenue"
     }, 
     "HANCOCK PLG": {
         "accessible": false, 
@@ -1632,12 +1632,12 @@
     "Willow Lake Playground": {
         "accessible": false, 
         "link": "/parks/willow-lake-playground", 
-        "location": "Grand Central Parkway between 71 &amp; 72 avenues"
+        "location": "Grand Central Parkway between 71 & 72 avenues"
     }, 
     "Century Playground": {
         "accessible": false, 
         "link": "/parks/century-playground", 
-        "location": "Brighton Beach Avenue &amp; West 2 Street"
+        "location": "Brighton Beach Avenue & West 2 Street"
     }, 
     "John Allen Payne Playground": {
         "accessible": false, 
@@ -1657,12 +1657,12 @@
     "Wingate Park": {
         "accessible": false, 
         "link": "/parks/wingate-park", 
-        "location": "Brooklyn Avenue &amp; Rutland Road"
+        "location": "Brooklyn Avenue & Rutland Road"
     }, 
     "Houston St. Playground": {
         "accessible": false, 
         "link": "/parks/sara-d-roosevelt-park", 
-        "location": "Stanton St. between Chrystie St. &amp; Forsyth St."
+        "location": "Stanton St. between Chrystie St. & Forsyth St."
     }, 
     "Jackson Pond Playground": {
         "accessible": false, 
@@ -1677,12 +1677,12 @@
     "Elmhurst Park": {
         "accessible": false, 
         "link": "/parks/elmhurst-park", 
-        "location": "Grand Ave. &amp; 79th St."
+        "location": "Grand Ave. & 79th St."
     }, 
     "Vesuvio Playground": {
         "accessible": false, 
         "link": "/parks/vesuvio-playground", 
-        "location": "Spring &amp; Thompson streets"
+        "location": "Spring & Thompson streets"
     }, 
     "Russell Pedersen Playground": {
         "accessible": false, 
@@ -1697,12 +1697,12 @@
     "William Sheridan Playground": {
         "accessible": false, 
         "link": "/parks/william-sheridan-playground", 
-        "location": "Wythe Avenue, Berry &amp; Grand streets"
+        "location": "Wythe Avenue, Berry & Grand streets"
     }, 
     "Parque De Los Ninos": {
         "accessible": false, 
         "link": "/parks/X004", 
-        "location": "Morrison Avenue &amp; Watson Street"
+        "location": "Morrison Avenue & Watson Street"
     }, 
     "Litchfield Villa": {
         "accessible": false, 
@@ -1712,12 +1712,12 @@
     "Washington Square Park": {
         "accessible": false, 
         "link": "/parks/washington-square-park", 
-        "location": "5 Avenue, Waverly Place, West 4 &amp; MacDougal streets."
+        "location": "5 Avenue, Waverly Place, West 4 & MacDougal streets."
     }, 
     "The Picnic House": {
         "accessible": false, 
         "link": "/parks/B073", 
-        "location": "Long Meadow at West Dr. &amp; 5th St."
+        "location": "Long Meadow at West Dr. & 5th St."
     }, 
     "Bridge Park": {
         "accessible": false, 
@@ -1732,7 +1732,7 @@
     "Farm Playground": {
         "accessible": false, 
         "link": "/parks/farm-playground", 
-        "location": "73 Avenue, 195 Street &amp; 196 Place"
+        "location": "73 Avenue, 195 Street & 196 Place"
     }, 
     "Martin Luther King Jr. Playground": {
         "accessible": false, 
@@ -1742,12 +1742,12 @@
     "Bleecker Playground": {
         "accessible": false, 
         "link": "/parks/bleecker-playground", 
-        "location": "Hudson &amp; West 11 streets"
+        "location": "Hudson & West 11 streets"
     }, 
     "Abraham Lincoln Playground": {
         "accessible": false, 
         "link": "/parks/abraham-lincoln-playground", 
-        "location": "East 135 Street, between Madison &amp; 5 avenues"
+        "location": "East 135 Street, between Madison & 5 avenues"
     }, 
     "Cadman Plaza Park": {
         "accessible": false, 
@@ -1767,7 +1767,7 @@
     "Playground Sixty Two LXII": {
         "accessible": false, 
         "link": "/parks/playground-sixty-two-lxii", 
-        "location": "Yellowstone Boulevard between 62 Avenue &amp; 62 Road"
+        "location": "Yellowstone Boulevard between 62 Avenue & 62 Road"
     }, 
     "The Big Park": {
         "accessible": false, 
@@ -1782,7 +1782,7 @@
     "Newtown Playground": {
         "accessible": false, 
         "link": "/parks/newtown-playground", 
-        "location": "92nd St. &amp; 56th Ave."
+        "location": "92nd St. & 56th Ave."
     }, 
     "Ballfields": {
         "accessible": false, 
@@ -1792,7 +1792,7 @@
     "Juniper North Playground Tennis": {
         "accessible": false, 
         "link": "/parks/juniper-valley-park", 
-        "location": "62nd Avenue &amp; 80th Street"
+        "location": "62nd Avenue & 80th Street"
     }, 
     "Carmine Carro Community Center": {
         "accessible": false, 
@@ -1802,7 +1802,7 @@
     "Bedford Playground": {
         "accessible": false, 
         "link": "/parks/bedford-playground", 
-        "location": "Bedford Avenue &amp; South 9 Street, Division Avenue"
+        "location": "Bedford Avenue & South 9 Street, Division Avenue"
     }, 
     "Alexander Hamilton Playground": {
         "accessible": false, 
@@ -1817,7 +1817,7 @@
     "Manhattan Beach Bathhouse": {
         "accessible": false, 
         "link": "/parks/manhattan-beach-park", 
-        "location": "Oriental Blvd. &amp; Hastings St."
+        "location": "Oriental Blvd. & Hastings St."
     }, 
     "Ocean Hill Playground": {
         "accessible": false, 
@@ -1827,7 +1827,7 @@
     "Jaime Campiz Playground": {
         "accessible": false, 
         "link": "/parks/jaime-campiz-playground", 
-        "location": "Hope Street &amp; Metropolitan Avenue"
+        "location": "Hope Street & Metropolitan Avenue"
     }, 
     "Baisley Pond Park Playground": {
         "accessible": false, 
@@ -1837,12 +1837,12 @@
     "Sixteen Sycamores Playground": {
         "accessible": false, 
         "link": "/parks/sixteen-sycamores-playground", 
-        "location": "Schermerhorn &amp; Nevins Street"
+        "location": "Schermerhorn & Nevins Street"
     }, 
     "Alice Kornegay Triangle": {
         "accessible": false, 
         "link": "/parks/alice-kornegay-triangle", 
-        "location": "Lexington Avenue, East 128 &amp; East 129 streets"
+        "location": "Lexington Avenue, East 128 & East 129 streets"
     }, 
     "Conservatory Garden": {
         "accessible": false, 
@@ -1852,7 +1852,7 @@
     "Dean Playground": {
         "accessible": false, 
         "link": "/parks/dean-playground", 
-        "location": "Bergen St. Between 6th Ave. &amp; Carlton Ave."
+        "location": "Bergen St. Between 6th Ave. & Carlton Ave."
     }, 
     "Story Playground": {
         "accessible": false, 
@@ -1887,7 +1887,7 @@
     "Triassic Playground": {
         "accessible": false, 
         "link": "/parks/flushing-meadows-corona-park", 
-        "location": "Jewel Ave. &amp; Van Wyck Expwy."
+        "location": "Jewel Ave. & Van Wyck Expwy."
     }, 
     "Hart Playground": {
         "accessible": false, 
@@ -1897,12 +1897,12 @@
     "Springfield Park North": {
         "accessible": false, 
         "link": "/parks/springfield-park-north", 
-        "location": "145th Rd. &amp; Springfield Blvd."
+        "location": "145th Rd. & Springfield Blvd."
     }, 
     "Monsignor McGolrick Playground": {
         "accessible": false, 
         "link": "/parks/msgr-mcgolrick-park", 
-        "location": "Nashua Ave. between Monitor St. &amp; Russell St."
+        "location": "Nashua Ave. between Monitor St. & Russell St."
     }, 
     "Cunningham Park Tennis House": {
         "accessible": false, 
@@ -1922,12 +1922,12 @@
     "Beach 17 Playground": {
         "accessible": false, 
         "link": "/parks/beach-17-playground", 
-        "location": "Beach 17th St. &amp; Seagirt Blvd."
+        "location": "Beach 17th St. & Seagirt Blvd."
     }, 
     "Bellaire Playground": {
         "accessible": false, 
         "link": "/parks/bellaire-playground", 
-        "location": "89 Avenue, 207 &amp; 208 streets"
+        "location": "89 Avenue, 207 & 208 streets"
     }, 
     "Pomonok Playground": {
         "accessible": false, 
@@ -1937,7 +1937,7 @@
     "Crotona ENV. CTR.": {
         "accessible": false, 
         "link": "/parks/crotona-park", 
-        "location": "Crotona Park East &amp; Charlotte Street"
+        "location": "Crotona Park East & Charlotte Street"
     }, 
     "High Rock Park": {
         "accessible": false, 
@@ -1947,32 +1947,32 @@
     "Sara D. Roosevelt Park Track": {
         "accessible": false, 
         "link": "/parks/sara-d-roosevelt-park", 
-        "location": "Hester Street between Forsyth St. &amp; Christie St."
+        "location": "Hester Street between Forsyth St. & Christie St."
     }, 
     "Morningside Park Ball Fields": {
         "accessible": false, 
         "link": "/parks/morningside-park", 
-        "location": "West 112th Street &amp; Manhattan Avenue"
+        "location": "West 112th Street & Manhattan Avenue"
     }, 
     "McCarren Play Center": {
         "accessible": false, 
         "link": "/parks/mccarren-park", 
-        "location": "McCarren Pool &amp; Play Center"
+        "location": "McCarren Pool & Play Center"
     }, 
     "City Line Park": {
         "accessible": false, 
         "link": "/parks/city-line-park", 
-        "location": "Atlantic &amp; Fountain avenues"
+        "location": "Atlantic & Fountain avenues"
     }, 
     "Bellerose Playground": {
         "accessible": false, 
         "link": "/parks/bellerose-playground", 
-        "location": "85 Avenue, 248 &amp; 249 streets"
+        "location": "85 Avenue, 248 & 249 streets"
     }, 
     "Carl Schurz Promenade": {
         "accessible": false, 
         "link": "/parks/M081", 
-        "location": "East 87th Street &amp; East End Avenue"
+        "location": "East 87th Street & East End Avenue"
     }, 
     "Fred Samuel Playground": {
         "accessible": false, 
@@ -1997,27 +1997,27 @@
     "Lannett Playground": {
         "accessible": false, 
         "link": "/parks/lanett-playground", 
-        "location": "Lanett Ave. between Beach 8th St. &amp; Beach 9th St."
+        "location": "Lanett Ave. between Beach 8th St. & Beach 9th St."
     }, 
     "Olinville Playground": {
         "accessible": false, 
         "link": "/parks/X004", 
-        "location": "East 219 Street &amp; Bronx River Parkway"
+        "location": "East 219 Street & Bronx River Parkway"
     }, 
     "Hunter's Point South Park": {
         "accessible": false, 
         "link": "/parks/hunters-point-south-park", 
-        "location": "Center Blvd. &amp; Borden Ave."
+        "location": "Center Blvd. & Borden Ave."
     }, 
     "Beach 59th St Playground": {
         "accessible": false, 
         "link": "/parks/beach-59th-st-playground", 
-        "location": "Boardwalk &amp; Beach 59-60 streets"
+        "location": "Boardwalk & Beach 59-60 streets"
     }, 
     "Peters Field": {
         "accessible": false, 
         "link": "/parks/peters-field-q351", 
-        "location": "183 Place &amp; Henderson Avenue"
+        "location": "183 Place & Henderson Avenue"
     }, 
     "Eastchester Playground": {
         "accessible": false, 
@@ -2027,7 +2027,7 @@
     "Baruch Playground": {
         "accessible": false, 
         "link": "/parks/baruch-playground", 
-        "location": "Stanton St. &amp; Baruch Pl."
+        "location": "Stanton St. & Baruch Pl."
     }, 
     "Sachkerah Woods Playground": {
         "accessible": false, 
@@ -2042,7 +2042,7 @@
     "Northern Playground": {
         "accessible": false, 
         "link": "/parks/northern-playground", 
-        "location": "Northern Boulevard &amp; 93 Street"
+        "location": "Northern Boulevard & 93 Street"
     }, 
     "Robert Bendheim Playground": {
         "accessible": false, 
@@ -2052,7 +2052,7 @@
     "Cambria Playground": {
         "accessible": false, 
         "link": "/parks/cambria-playground", 
-        "location": "121 Avenue &amp; 220 Street"
+        "location": "121 Avenue & 220 Street"
     }, 
     "227th Street Playground": {
         "accessible": false, 
@@ -2067,7 +2067,7 @@
     "Lawrence Virgilio Playground": {
         "accessible": false, 
         "link": "/parks/lawrence-virgilio-playground", 
-        "location": "39 Drive &amp; 54 Street"
+        "location": "39 Drive & 54 Street"
     }, 
     "Soundview Park Playground": {
         "accessible": false, 
@@ -2077,12 +2077,12 @@
     "Hamilton Fish Park": {
         "accessible": false, 
         "link": "/parks/hamilton-fish-park", 
-        "location": "Between East Houston &amp; Stanton streets"
+        "location": "Between East Houston & Stanton streets"
     }, 
     "79th Street Entrance": {
         "accessible": false, 
         "link": "/parks/shore-park-and-parkway", 
-        "location": "Shore Road &amp; 78th Street"
+        "location": "Shore Road & 78th Street"
     }, 
     "Linden Park": {
         "accessible": false, 
@@ -2092,7 +2092,7 @@
     "Saul Weprin Playground": {
         "accessible": false, 
         "link": "/parks/saul-weprin-playground", 
-        "location": "53 Avenue between 201 &amp; 202 streets"
+        "location": "53 Avenue between 201 & 202 streets"
     }, 
     "Martin Luther King, Jr. Playground": {
         "accessible": false, 
@@ -2102,7 +2102,7 @@
     "L/CPL Thomas P. Noonan Jr. Playground": {
         "accessible": false, 
         "link": "/parks/l-cpl-thomas-p-noonan-jr-playground", 
-        "location": "Greenpoint &amp; 47 avenues, 43 Street"
+        "location": "Greenpoint & 47 avenues, 43 Street"
     }, 
     "Juniper Valley Park Running Track": {
         "accessible": false, 
@@ -2132,7 +2132,7 @@
     "Bartlett Playground": {
         "accessible": false, 
         "link": "/parks/bartlett-playground", 
-        "location": "Bartlett Street &amp; Throop Avenue"
+        "location": "Bartlett Street & Throop Avenue"
     }, 
     "Prospect Park Audubon Center": {
         "accessible": true, 
@@ -2152,22 +2152,22 @@
     "173rd St Playground": {
         "accessible": false, 
         "link": "/parks/detective-keith-l-williams-park-liberty-park", 
-        "location": "173rd St. &amp; 106th Ave."
+        "location": "173rd St. & 106th Ave."
     }, 
     "Evelyn's Playground": {
         "accessible": false, 
         "link": "/parks/union-square-park", 
-        "location": "Union Square West Between E. 16th &amp; E. 17th St."
+        "location": "Union Square West Between E. 16th & E. 17th St."
     }, 
     "Kennedy Playground": {
         "accessible": false, 
         "link": "/parks/kennedy-playground", 
-        "location": "Corp. Kennedy Street &amp; 33 Avenue"
+        "location": "Corp. Kennedy Street & 33 Avenue"
     }, 
     "Alley Park": {
         "accessible": false, 
         "link": "/parks/Q356", 
-        "location": "67 Avenue &amp; 230 Street"
+        "location": "67 Avenue & 230 Street"
     }, 
     "Stars & Stripes Playground": {
         "accessible": false, 
@@ -2182,7 +2182,7 @@
     "Playground One Forty Nine CIL": {
         "accessible": false, 
         "link": "/parks/jackie-robinson-park_manhattan", 
-        "location": "West 149 Street &amp; Bradhurst Avenue"
+        "location": "West 149 Street & Bradhurst Avenue"
     }, 
     "Big Bush Playground": {
         "accessible": false, 
@@ -2192,12 +2192,12 @@
     "Martin Van Buren Playground": {
         "accessible": false, 
         "link": "/parks/crotona-park", 
-        "location": "Crotona East &amp; Claremont Parkway"
+        "location": "Crotona East & Claremont Parkway"
     }, 
     "121st Avenue Entrance": {
         "accessible": false, 
         "link": "/parks/baisley-pond-park", 
-        "location": "121st Ave. &amp; 155th St."
+        "location": "121st Ave. & 155th St."
     }, 
     "Rose Hill Park": {
         "accessible": false, 
@@ -2227,27 +2227,27 @@
     "Aqueduct Walk": {
         "accessible": false, 
         "link": "/parks/aqueduct-walk-x001a", 
-        "location": "Aqueduct Ave. E &amp; W. 182nd St."
+        "location": "Aqueduct Ave. E & W. 182nd St."
     }, 
     "Juniper Valley Ballfields": {
         "accessible": false, 
         "link": "/parks/juniper-valley-park", 
-        "location": "Mid-Park, near hockey rink &amp; ballfields"
+        "location": "Mid-Park, near hockey rink & ballfields"
     }, 
     "Hudson Park": {
         "accessible": false, 
         "link": "/parks/hudson-park", 
-        "location": "W. 36th St. &amp; Hudson Blvd. E."
+        "location": "W. 36th St. & Hudson Blvd. E."
     }, 
     "Heritage Field": {
         "accessible": false, 
         "link": "/parks/macombs-dam-park", 
-        "location": "mid-park, enter at East 161st Street &amp; River Ave."
+        "location": "mid-park, enter at East 161st Street & River Ave."
     }, 
     "Kissena Park Tennis Courts": {
         "accessible": false, 
         "link": "/parks/kissena-park", 
-        "location": "mid-Park, enter at Rose &amp; Oak Avenues"
+        "location": "mid-Park, enter at Rose & Oak Avenues"
     }, 
     "Franz Sigel Park Zone 1": {
         "accessible": false, 
@@ -2257,7 +2257,7 @@
     "Ellington in the Park": {
         "accessible": false, 
         "link": "/parks/riverside-park", 
-        "location": "Riverside Dr &amp; W 105th St"
+        "location": "Riverside Dr & W 105th St"
     }, 
     "Jackie Robinson Park Playground": {
         "accessible": false, 
@@ -2267,7 +2267,7 @@
     "Rolph Henry Playground": {
         "accessible": false, 
         "link": "/parks/rolf-henry-playground", 
-        "location": "New York &amp; Clarkson avenues"
+        "location": "New York & Clarkson avenues"
     }, 
     "Crotona Park Pool House": {
         "accessible": false, 
@@ -2282,12 +2282,12 @@
     "Gorman Playground": {
         "accessible": false, 
         "link": "/parks/gorman-playground", 
-        "location": "30 Avenue between 84 &amp; 85 streets"
+        "location": "30 Avenue between 84 & 85 streets"
     }, 
     "Crispus Attucks Playground": {
         "accessible": false, 
         "link": "/parks/crispus-attucks-playground", 
-        "location": "Fulton Street &amp; Classon Avenue"
+        "location": "Fulton Street & Classon Avenue"
     }, 
     "Bufano Park": {
         "accessible": false, 
@@ -2302,7 +2302,7 @@
     "Poppenhusen Playground": {
         "accessible": false, 
         "link": "/parks/poppenhusen-playground", 
-        "location": "20 Avenue between 123 &amp; 124 streets"
+        "location": "20 Avenue between 123 & 124 streets"
     }, 
     "Old Town Playground": {
         "accessible": false, 
@@ -2312,12 +2312,12 @@
     "Albert H. Mauro Playground": {
         "accessible": false, 
         "link": "/parks/flushing-meadows-corona-park", 
-        "location": "Park Drive East &amp; 73 Terrace"
+        "location": "Park Drive East & 73 Terrace"
     }, 
     "Ravenswood Playground": {
         "accessible": false, 
         "link": "/parks/ravenswood-playground", 
-        "location": "34th Ave. &amp; 21st St."
+        "location": "34th Ave. & 21st St."
     }, 
     "St. James Park": {
         "accessible": false, 
@@ -2327,7 +2327,7 @@
     "Greencroft Playground": {
         "accessible": false, 
         "link": "/parks/greencroft-playground", 
-        "location": "Redgrave, Ainsworth &amp; Durant avenues"
+        "location": "Redgrave, Ainsworth & Durant avenues"
     }, 
     "Bailey Playground": {
         "accessible": false, 
@@ -2337,7 +2337,7 @@
     "Hammel Playground": {
         "accessible": false, 
         "link": "/parks/hammel-playground", 
-        "location": "B 83 Street &amp; Rockaway Beach Boulevard"
+        "location": "B 83 Street & Rockaway Beach Boulevard"
     }, 
     "Rainey Park": {
         "accessible": false, 
@@ -2347,27 +2347,27 @@
     "Louis Pasteur Park": {
         "accessible": false, 
         "link": "/parks/louis-pasteur-park", 
-        "location": "248 Street &amp; 51 Avenue"
+        "location": "248 Street & 51 Avenue"
     }, 
     "Bryant Park": {
         "accessible": false, 
         "link": "/parks/bryant-park", 
-        "location": "W. 42nd St. &amp; Ave. of the Americas"
+        "location": "W. 42nd St. & Ave. of the Americas"
     }, 
     "Whitestone Playground": {
         "accessible": false, 
         "link": "/parks/whitestone-playground", 
-        "location": "12 Avenue &amp; 153 Street"
+        "location": "12 Avenue & 153 Street"
     }, 
     "Captain Mario Fajardo Park": {
         "accessible": false, 
         "link": "/parks/Q300", 
-        "location": "Kissena Boulevard &amp; Booth Memorial Avenue"
+        "location": "Kissena Boulevard & Booth Memorial Avenue"
     }, 
     "Monroe Cohen Park": {
         "accessible": false, 
         "link": "/parks/canarsie-park", 
-        "location": "American Legion Ballfields near E. 102nd St. &amp; Seaview Ave."
+        "location": "American Legion Ballfields near E. 102nd St. & Seaview Ave."
     }, 
     "Highland Park Barbecue Area": {
         "accessible": false, 
@@ -2407,7 +2407,7 @@
     "Potomac Playground": {
         "accessible": false, 
         "link": "/parks/potomac-playground", 
-        "location": "Tompkins Avenue &amp; Halsey Street"
+        "location": "Tompkins Avenue & Halsey Street"
     }, 
     "Allerton Playground": {
         "accessible": false, 
@@ -2417,7 +2417,7 @@
     "Austin J. McDonald Playground": {
         "accessible": false, 
         "link": "/parks/austin-j-mcdonald-playground", 
-        "location": "Forest Avenue, Myrtle Avenue between Broadway &amp; Burgher"
+        "location": "Forest Avenue, Myrtle Avenue between Broadway & Burgher"
     }, 
     "Colucci Playground": {
         "accessible": false, 
@@ -2427,7 +2427,7 @@
     "Breininger Park": {
         "accessible": false, 
         "link": "/parks/breininger-park", 
-        "location": "Braddock Avenue &amp; 240 Street"
+        "location": "Braddock Avenue & 240 Street"
     }, 
     "Taylor Playground": {
         "accessible": false, 
@@ -2437,32 +2437,32 @@
     "Spirit Playground": {
         "accessible": false, 
         "link": "/parks/spirit-playground", 
-        "location": "36 Avenue between 9 &amp; 10 streets"
+        "location": "36 Avenue between 9 & 10 streets"
     }, 
     "Prall Playground": {
         "accessible": false, 
         "link": "/parks/prall-playground", 
-        "location": "Forest Ave. between Elizabeth St. &amp; Broadway"
+        "location": "Forest Ave. between Elizabeth St. & Broadway"
     }, 
     "Fort Greene Playground": {
         "accessible": false, 
         "link": "/parks/fort-greene-park", 
-        "location": "St. Edwards Street &amp; Willoughby Street"
+        "location": "St. Edwards Street & Willoughby Street"
     }, 
     "Albert J. Parham Playground": {
         "accessible": false, 
         "link": "/parks/albert-j-parham-playground", 
-        "location": "Adelphi Street, Clermont, DeKalb &amp; Willoughby avenues"
+        "location": "Adelphi Street, Clermont, DeKalb & Willoughby avenues"
     }, 
     "Vidalia Park": {
         "accessible": false, 
         "link": "/parks/vidalia-park", 
-        "location": "Vyse &amp; Daly avenues between West 179-180 streets"
+        "location": "Vyse & Daly avenues between West 179-180 streets"
     }, 
     "Brighton 2nd Street": {
         "accessible": true, 
         "link": "/parks/coney-island-beach-and-boardwalk", 
-        "location": "Brighton 2nd Street &amp; Boardwalk"
+        "location": "Brighton 2nd Street & Boardwalk"
     }, 
     "Caserta Playground": {
         "accessible": false, 
@@ -2472,27 +2472,27 @@
     "Isham St. Entrance": {
         "accessible": false, 
         "link": "/parks/inwood-hill-park", 
-        "location": "Seaman Ave. &amp; Isham St."
+        "location": "Seaman Ave. & Isham St."
     }, 
     "Angelo Campanaro Playground": {
         "accessible": false, 
         "link": "/parks/givan-square", 
-        "location": "East Gun Hill Road, Eastchest Road, &amp; O'Neil Place"
+        "location": "East Gun Hill Road, Eastchest Road, & O'Neil Place"
     }, 
     "Rockaway Beach (Beach 115th St.)": {
         "accessible": false, 
         "link": "/parks/Q050", 
-        "location": "Beach 115th St. &amp; Rockaway Boardwalk"
+        "location": "Beach 115th St. & Rockaway Boardwalk"
     }, 
     "Stockton Playground": {
         "accessible": false, 
         "link": "/parks/stockton-playground", 
-        "location": "Marcy &amp; Park avenues"
+        "location": "Marcy & Park avenues"
     }, 
     "Silent Springs Playground": {
         "accessible": false, 
         "link": "/parks/Q300", 
-        "location": "Colden St. &amp; Geranium Ave."
+        "location": "Colden St. & Geranium Ave."
     }, 
     "Ferry Point Park West": {
         "accessible": false, 
@@ -2512,22 +2512,22 @@
     "Ancient Playground": {
         "accessible": false, 
         "link": "/parks/central-park", 
-        "location": "85th St. &amp; 5th Ave."
+        "location": "85th St. & 5th Ave."
     }, 
     "Playground 286": {
         "accessible": false, 
         "link": "/parks/playground-286", 
-        "location": "Avenue Y, between Brown &amp; Haring streets"
+        "location": "Avenue Y, between Brown & Haring streets"
     }, 
     "Crowley Playground": {
         "accessible": false, 
         "link": "/parks/crowley-playground", 
-        "location": "57 Avenue &amp; 83 Street"
+        "location": "57 Avenue & 83 Street"
     }, 
     "Dugan Playground": {
         "accessible": false, 
         "link": "/parks/dugan-playground", 
-        "location": "Mill Road &amp; Tysens Lane"
+        "location": "Mill Road & Tysens Lane"
     }, 
     "Brady Playground": {
         "accessible": false, 
@@ -2562,7 +2562,7 @@
     "Audubon Playground": {
         "accessible": false, 
         "link": "/parks/audubon-playground", 
-        "location": "West 170 Street &amp; Audubon Avenue"
+        "location": "West 170 Street & Audubon Avenue"
     }, 
     "BANNEKER": {
         "accessible": false, 
@@ -2577,17 +2577,17 @@
     "Midland Playground": {
         "accessible": false, 
         "link": "/parks/fdr-boardwalk-and-beach", 
-        "location": "Greeley Ave. &amp; Father Capodanno Blvd."
+        "location": "Greeley Ave. & Father Capodanno Blvd."
     }, 
     "Marc And Jason's Playground": {
         "accessible": false, 
         "link": "/parks/marc-and-jasons-playground", 
-        "location": "Sterling Street &amp; Empire Boulevard"
+        "location": "Sterling Street & Empire Boulevard"
     }, 
     "Bensonhurst Park": {
         "accessible": false, 
         "link": "/parks/bensonhurst-park", 
-        "location": "Gravesend Bay, 21 &amp; Cropsey avenues, Bay Parkway"
+        "location": "Gravesend Bay, 21 & Cropsey avenues, Bay Parkway"
     }, 
     "Classic Playground": {
         "accessible": false, 
@@ -2602,17 +2602,17 @@
     "Fresh Meadows Playground": {
         "accessible": false, 
         "link": "/parks/fresh-meadows-playground", 
-        "location": "67 Avenue &amp; 173 Street"
+        "location": "67 Avenue & 173 Street"
     }, 
     "Carnegie Playground": {
         "accessible": false, 
         "link": "/parks/cooper-park", 
-        "location": "Sharon, Olive streets, Maspeth &amp; Morgan avenues"
+        "location": "Sharon, Olive streets, Maspeth & Morgan avenues"
     }, 
     "Robert E. Venable Park": {
         "accessible": false, 
         "link": "/parks/robert-e-venable-park", 
-        "location": "Belmont Ave. &amp; Sheridan Ave."
+        "location": "Belmont Ave. & Sheridan Ave."
     }, 
     "Tilden Playground": {
         "accessible": false, 
@@ -2622,7 +2622,7 @@
     "Clintonville Playground": {
         "accessible": false, 
         "link": "/parks/clintonville-playground", 
-        "location": "Clintonville Street, 17 Road &amp; 17 Avenue"
+        "location": "Clintonville Street, 17 Road & 17 Avenue"
     }, 
     "World's Fair Playground": {
         "accessible": false, 
@@ -2637,17 +2637,17 @@
     "Emerald Playground": {
         "accessible": false, 
         "link": "/parks/emerald-playground", 
-        "location": "164 Street between Jewel &amp; 71 avenues"
+        "location": "164 Street between Jewel & 71 avenues"
     }, 
     "Bronx Shore Fields": {
         "accessible": false, 
         "link": "/parks/randalls-island", 
-        "location": "Bronx Shore Road, Between Fields 3 &amp; 4"
+        "location": "Bronx Shore Road, Between Fields 3 & 4"
     }, 
     "Hoover - Manton Playgrounds": {
         "accessible": false, 
         "link": "/parks/hoover-manton-playgrounds", 
-        "location": "Manton Street &amp; 83 Avenue"
+        "location": "Manton Street & 83 Avenue"
     }, 
     "Van Voorhees Playground": {
         "accessible": false, 
@@ -2657,7 +2657,7 @@
     "DiGilio Playground": {
         "accessible": false, 
         "link": "/parks/digilio-playground", 
-        "location": "McDonald Avenue &amp; Avenue F"
+        "location": "McDonald Avenue & Avenue F"
     }, 
     "St. John's Recreation Center": {
         "accessible": true, 
@@ -2672,12 +2672,12 @@
     "East Elmhurst Playground": {
         "accessible": false, 
         "link": "/parks/east-elmhurst-playground", 
-        "location": "25 Avenue &amp; 98 Street"
+        "location": "25 Avenue & 98 Street"
     }, 
     "Park House": {
         "accessible": false, 
         "link": "/parks/corlears-hook-park", 
-        "location": "Cherry St. &amp; Jackson St."
+        "location": "Cherry St. & Jackson St."
     }, 
     "Dongan Playground": {
         "accessible": false, 
@@ -2692,17 +2692,17 @@
     "Children's Corner": {
         "accessible": false, 
         "link": "/parks/B073", 
-        "location": "Willink Hill, Ocean Ave. &amp; Flatbush Ave."
+        "location": "Willink Hill, Ocean Ave. & Flatbush Ave."
     }, 
     "Joseph Austin Playground": {
         "accessible": false, 
         "link": "/parks/joseph-austin-playground", 
-        "location": "Grand Central Parkway &amp; 164 Place"
+        "location": "Grand Central Parkway & 164 Place"
     }, 
     "Wright Brothers Playground": {
         "accessible": false, 
         "link": "/parks/wright-brothers-playground", 
-        "location": "West 156 Street &amp; St. Nicholas Avenue"
+        "location": "West 156 Street & St. Nicholas Avenue"
     }, 
     "Tennis Courts - Forest Parkway": {
         "accessible": false, 
@@ -2722,7 +2722,7 @@
     "Woods Playground": {
         "accessible": false, 
         "link": "/parks/woods-playground", 
-        "location": "Bergen Street &amp; Utica Avenue"
+        "location": "Bergen Street & Utica Avenue"
     }, 
     "Sol Bloom Playground": {
         "accessible": false, 
@@ -2747,12 +2747,12 @@
     "Tecumseh Playground": {
         "accessible": false, 
         "link": "/parks/tecumseh-playground", 
-        "location": "West 77 Street &amp; Amsterdam Avenue"
+        "location": "West 77 Street & Amsterdam Avenue"
     }, 
     "Marie Curie Playground": {
         "accessible": false, 
         "link": "/parks/marie-curie-playground", 
-        "location": "211 &amp; Oceana streets, 46 Avenue"
+        "location": "211 & Oceana streets, 46 Avenue"
     }, 
     "West 22nd Street": {
         "accessible": false, 
@@ -2762,7 +2762,7 @@
     "Montbellier Park": {
         "accessible": false, 
         "link": "/parks/montbellier-park", 
-        "location": "Springfield Boulevard &amp; 139 Avenue"
+        "location": "Springfield Boulevard & 139 Avenue"
     }, 
     "Alfred E Smith Plg": {
         "accessible": false, 
@@ -2772,12 +2772,12 @@
     "Ethan Allen Playground": {
         "accessible": false, 
         "link": "/parks/ethan-allen-playground", 
-        "location": "New Jersey Avenue &amp; Vermont Street/Worthman"
+        "location": "New Jersey Avenue & Vermont Street/Worthman"
     }, 
     "Twenty-Four Sycamores Park": {
         "accessible": false, 
         "link": "/parks/twenty-four-sycamores-park", 
-        "location": "FDR Drive, East 60 to East 61 streets &amp; York Avenue"
+        "location": "FDR Drive, East 60 to East 61 streets & York Avenue"
     }, 
     "Friends Field": {
         "accessible": false, 
@@ -2787,17 +2787,17 @@
     "Bushwick Playground": {
         "accessible": false, 
         "link": "/parks/bushwick-playground-and-pool", 
-        "location": "Flushing Avenue, Bushwick Avenue &amp; Humboldt Street"
+        "location": "Flushing Avenue, Bushwick Avenue & Humboldt Street"
     }, 
     "210 St Playground": {
         "accessible": false, 
         "link": "/parks/cunningham-park", 
-        "location": "210 Street &amp; 73 Avenue"
+        "location": "210 Street & 73 Avenue"
     }, 
     "4th Avenue Entrance": {
         "accessible": false, 
         "link": "/parks/shore-park-and-parkway", 
-        "location": "Shore Road between 3rd Ave. &amp; 4th Ave."
+        "location": "Shore Road between 3rd Ave. & 4th Ave."
     }, 
     "Kaiser Park": {
         "accessible": false, 
@@ -2812,22 +2812,22 @@
     "100% Playground": {
         "accessible": false, 
         "link": "/parks/100-percent-playground", 
-        "location": "Glenwood Road, East 100 &amp; East 101 streets"
+        "location": "Glenwood Road, East 100 & East 101 streets"
     }, 
     "Dr. Green Playground": {
         "accessible": false, 
         "link": "/parks/dr-green-playground", 
-        "location": "Mother Gaston Boulevard (Stone Avenue) &amp; Sutter avenues"
+        "location": "Mother Gaston Boulevard (Stone Avenue) & Sutter avenues"
     }, 
     "Torsney Playground": {
         "accessible": false, 
         "link": "/parks/torsney-playground", 
-        "location": "Skillman Avenue &amp; 43 Street"
+        "location": "Skillman Avenue & 43 Street"
     }, 
     "Alley Athletic Playground": {
         "accessible": false, 
         "link": "/parks/Q001A", 
-        "location": "Grand Central Parkway, Winchester Boulevard, &amp;Union Turnpike"
+        "location": "Grand Central Parkway, Winchester Boulevard, &Union Turnpike"
     }, 
     "Sunset Park": {
         "accessible": false, 
@@ -2842,7 +2842,7 @@
     "La Guardia Playground": {
         "accessible": false, 
         "link": "/parks/la-guardia-playground", 
-        "location": "Havemeyer, Roebling streets &amp; South 4"
+        "location": "Havemeyer, Roebling streets & South 4"
     }, 
     "Brower Park": {
         "accessible": false, 
@@ -2857,17 +2857,17 @@
     "Saw Mill Playground": {
         "accessible": false, 
         "link": "/parks/saw-mill-playground", 
-        "location": "Brook Avenue between E. 139th St. &amp; E. 140th St."
+        "location": "Brook Avenue between E. 139th St. & E. 140th St."
     }, 
     "Colden Playground": {
         "accessible": false, 
         "link": "/parks/colden-playground", 
-        "location": "Union Street &amp; 31 Road"
+        "location": "Union Street & 31 Road"
     }, 
     "Playground Ninety": {
         "accessible": false, 
         "link": "/parks/playground-ninety", 
-        "location": "Northern Boulevard &amp; 90 Street"
+        "location": "Northern Boulevard & 90 Street"
     }, 
     "Tompkins Square Park": {
         "accessible": false, 
@@ -2892,7 +2892,7 @@
     "St. Vartan Park": {
         "accessible": false, 
         "link": "/parks/st-vartan-park", 
-        "location": "East 35-East 36 streets, between 1 &amp; 2 avenues"
+        "location": "East 35-East 36 streets, between 1 & 2 avenues"
     }, 
     "Rienzi Playground": {
         "accessible": false, 
@@ -2907,7 +2907,7 @@
     "Lions Gate Field": {
         "accessible": false, 
         "link": "/parks/sara-d-roosevelt-park", 
-        "location": "Broome Street between Forsyth St. &amp; Christie St."
+        "location": "Broome Street between Forsyth St. & Christie St."
     }, 
     "John J Carty Park": {
         "accessible": false, 
@@ -2917,7 +2917,7 @@
     "Quarry Ballfields": {
         "accessible": false, 
         "link": "/parks/quarry-ballfields", 
-        "location": "Quarry Road, East 181 Street, Oak Place &amp; Hughes Avenue"
+        "location": "Quarry Road, East 181 Street, Oak Place & Hughes Avenue"
     }, 
     "Pelham Bay Nature Center": {
         "accessible": false, 
@@ -2927,7 +2927,7 @@
     "Cypress Hills Playground": {
         "accessible": false, 
         "link": "/parks/cypress-hills-playground", 
-        "location": "Blake &amp; Euclid avenues"
+        "location": "Blake & Euclid avenues"
     }, 
     "Calvert Vaux Park House": {
         "accessible": false, 
@@ -2937,7 +2937,7 @@
     "Rosewood Playground": {
         "accessible": false, 
         "link": "/parks/X004", 
-        "location": "Bronx River Parkway &amp; Rosewood Street"
+        "location": "Bronx River Parkway & Rosewood Street"
     }, 
     "Dr. Charles R. Drew Park": {
         "accessible": false, 
@@ -2952,7 +2952,7 @@
     "Police Officer Nicholas Demutiis Park": {
         "accessible": false, 
         "link": "/parks/police-officer-nicholas-demutiis-park", 
-        "location": "102 Street &amp; Liberty Avenue"
+        "location": "102 Street & Liberty Avenue"
     }, 
     "Mazzei Playground": {
         "accessible": false, 
@@ -2977,7 +2977,7 @@
     "Playground One Fifty Two CLII": {
         "accessible": false, 
         "link": "/parks/jackie-robinson-park_manhattan", 
-        "location": "West 152 Street &amp; Bradhurst Avenue"
+        "location": "West 152 Street & Bradhurst Avenue"
     }, 
     "De Witt Clinton Park": {
         "accessible": false, 
@@ -2987,27 +2987,27 @@
     "Park Of The Americas": {
         "accessible": false, 
         "link": "/parks/park-of-the-americas", 
-        "location": "104 Street &amp; 41 Avenue"
+        "location": "104 Street & 41 Avenue"
     }, 
     "Dyker Beach Park": {
         "accessible": false, 
         "link": "/parks/dyker-beach-park", 
-        "location": "Bay 8th Street &amp; Independence Ave."
+        "location": "Bay 8th Street & Independence Ave."
     }, 
     "Queens Valley Playground": {
         "accessible": false, 
         "link": "/parks/queens-valley-playground", 
-        "location": "137 Street &amp; 77 Avenue"
+        "location": "137 Street & 77 Avenue"
     }, 
     "Roy Wilkins Playground": {
         "accessible": false, 
         "link": "/parks/roy-wilkins-recreation-center", 
-        "location": "Enter at Baisley Blvd. &amp; 177th St."
+        "location": "Enter at Baisley Blvd. & 177th St."
     }, 
     "MacArthur Playground": {
         "accessible": false, 
         "link": "/parks/macarthur-park", 
-        "location": "East 49 Street &amp; East River Drive"
+        "location": "East 49 Street & East River Drive"
     }, 
     "Pratt Playground": {
         "accessible": false, 
@@ -3027,17 +3027,17 @@
     "Auburndale Classroom": {
         "accessible": false, 
         "link": "/parks/auburndale-playground", 
-        "location": "near 35th Ave, between 171st St &amp; 172nd St"
+        "location": "near 35th Ave, between 171st St & 172nd St"
     }, 
     "Mafera Park": {
         "accessible": false, 
         "link": "/parks/mafera-park", 
-        "location": "65 Place &amp; Catalpa Avenue &amp; 68 Avenue"
+        "location": "65 Place & Catalpa Avenue & 68 Avenue"
     }, 
     "B311-BLG0001": {
         "accessible": false, 
         "link": "/parks/ten-eyck-playground", 
-        "location": "Meserole St. &amp; Bushwick Pl."
+        "location": "Meserole St. & Bushwick Pl."
     }, 
     "The Pearly Gates": {
         "accessible": false, 
@@ -3047,7 +3047,7 @@
     "College Point Fields": {
         "accessible": false, 
         "link": "/parks/college-point-fields", 
-        "location": "130th Street &amp; 23rd Avenue"
+        "location": "130th Street & 23rd Avenue"
     }, 
     "Pierrepont Playground": {
         "accessible": false, 
@@ -3062,7 +3062,7 @@
     "Tall Oak Playground": {
         "accessible": false, 
         "link": "/parks/tall-oak-playground", 
-        "location": "64 Avenue, 218 &amp; 219 streets"
+        "location": "64 Avenue, 218 & 219 streets"
     }, 
     "Greenwood Playground": {
         "accessible": false, 
@@ -3077,7 +3077,7 @@
     "Roy Wilkins Track & Field": {
         "accessible": false, 
         "link": "/parks/roy-wilkins-recreation-center", 
-        "location": "south of track, enter at Foch Blvd. &amp; Merrick Blvd."
+        "location": "south of track, enter at Foch Blvd. & Merrick Blvd."
     }, 
     "Merchants' Gate": {
         "accessible": false, 
@@ -3087,7 +3087,7 @@
     "Stapleton Playground": {
         "accessible": false, 
         "link": "/parks/stapleton-playground", 
-        "location": "Tompkins Avenue &amp; Broad Street\n                  <div class=\"alert alert-error\" style=\"margin-top:15px\">\n                     This facility is currently closed. <a class=\"show-closure\" href=\"#\">Details</a>\n<div class=\"closure-message\" style=\"margin-top:15px;\">Stapleton Playground is currently closed for reconstruction. This project will reconstruct the playground, multi-use fields, basketball and handball courts, and water features at Stapleton Playground. For updates on this project, please visit our <a href=\"/planning-and-building/capital-project-tracker/project/7197\">Capital Project Tracker</a> page.</div>\n</div>\n"
+        "location": "Tompkins Avenue & Broad Street"
     }, 
     "CONFERENCE HOUSE": {
         "accessible": false, 
@@ -3097,22 +3097,22 @@
     "Luther Gulick Park Comfort Station": {
         "accessible": false, 
         "link": "/parks/luther-gulick-park", 
-        "location": "Broome Street between Bialystoker Pl. &amp; Columbia St."
+        "location": "Broome Street between Bialystoker Pl. & Columbia St."
     }, 
     "Grady Playground": {
         "accessible": false, 
         "link": "/parks/grady-playground", 
-        "location": "Brighton 4th St. &amp; Brighton 4th Rd."
+        "location": "Brighton 4th St. & Brighton 4th Rd."
     }, 
     "Quisqueya Playground": {
         "accessible": false, 
         "link": "/parks/highbridge-park", 
-        "location": "W. 180th St. &amp; Amsterdam Ave."
+        "location": "W. 180th St. & Amsterdam Ave."
     }, 
     "North Rochdale Playground": {
         "accessible": false, 
         "link": "/parks/north-rochdale-playground", 
-        "location": "Baisley Boulevard &amp; Bedell Street"
+        "location": "Baisley Boulevard & Bedell Street"
     }, 
     "Brighton 2nd Street Lifeguard Station": {
         "accessible": false, 
@@ -3127,12 +3127,12 @@
     "Upper Highland Playground": {
         "accessible": false, 
         "link": "/parks/highland-park-b047", 
-        "location": "Heath Pl &amp; Highland Blvd"
+        "location": "Heath Pl & Highland Blvd"
     }, 
     "Catbird Playground": {
         "accessible": false, 
         "link": "/parks/M081", 
-        "location": "Gracie Square &amp; East End Avenue"
+        "location": "Gracie Square & East End Avenue"
     }, 
     "Leonardo Ingravallo Playground": {
         "accessible": false, 
@@ -3142,17 +3142,17 @@
     "Hollis Playground": {
         "accessible": false, 
         "link": "/parks/hollis-playground", 
-        "location": "205 Street &amp; Hollis Avenue"
+        "location": "205 Street & Hollis Avenue"
     }, 
     "Neufeld (Elephant) Playground": {
         "accessible": false, 
         "link": "/parks/riverside-park", 
-        "location": "76th Street &amp; Riverside Drive"
+        "location": "76th Street & Riverside Drive"
     }, 
     "Dimattina Playground": {
         "accessible": false, 
         "link": "/parks/dimattina-playground-b223b", 
-        "location": "Hicks &amp; Rapelye streets"
+        "location": "Hicks & Rapelye streets"
     }, 
     "Fort Totten Park": {
         "accessible": false, 
@@ -3162,7 +3162,7 @@
     "Sutphin Playground": {
         "accessible": false, 
         "link": "/parks/baisley-pond-park", 
-        "location": "Sutphin Blvd &amp; 125 Avenue"
+        "location": "Sutphin Blvd & 125 Avenue"
     }, 
     "North Meadow Recreation Center": {
         "accessible": true, 
@@ -3172,22 +3172,22 @@
     "Maple Playground": {
         "accessible": false, 
         "link": "/parks/maple-playground", 
-        "location": "Kissena Boulevard &amp; Maple Avenue"
+        "location": "Kissena Boulevard & Maple Avenue"
     }, 
     "Parade Ground": {
         "accessible": false, 
         "link": "/parks/parade-ground", 
-        "location": "Between Parkside Ave. &amp; Caton Ave, and Rugby Rd. &amp; Argyle Rd."
+        "location": "Between Parkside Ave. & Caton Ave, and Rugby Rd. & Argyle Rd."
     }, 
     "Underwood Park": {
         "accessible": false, 
         "link": "/parks/underwood-park", 
-        "location": "Lafayette &amp; Waverly avenues"
+        "location": "Lafayette & Waverly avenues"
     }, 
     "Red Hook Park": {
         "accessible": false, 
         "link": "/parks/red-hook-park", 
-        "location": "Bay St. &amp; Columbia St."
+        "location": "Bay St. & Columbia St."
     }, 
     "East River Playground": {
         "accessible": false, 
@@ -3217,7 +3217,7 @@
     "Frank D. O'Connor Playground": {
         "accessible": false, 
         "link": "/parks/frank-d-oconnor-playground", 
-        "location": "Broadway &amp; 78 Street"
+        "location": "Broadway & 78 Street"
     }, 
     "Clove Lakes Park": {
         "accessible": false, 
@@ -3242,7 +3242,7 @@
     "Willoughby Playground": {
         "accessible": false, 
         "link": "/parks/willoughby-playground", 
-        "location": "Tompkins &amp; Willoughby avenues"
+        "location": "Tompkins & Willoughby avenues"
     }, 
     "Curtis Playground": {
         "accessible": false, 
@@ -3252,7 +3252,7 @@
     "Margaret I. Carman Green - Weeping Beech": {
         "accessible": false, 
         "link": "/parks/margaret-i-carman-green", 
-        "location": "37 Avenue &amp; Bowne Street"
+        "location": "37 Avenue & Bowne Street"
     }, 
     "The Painter's Playground": {
         "accessible": false, 
@@ -3272,12 +3272,12 @@
     "Queens Vietnam Veterans Memorial": {
         "accessible": false, 
         "link": "/parks/elmhurst-park", 
-        "location": "79th St. &amp; Grand Ave."
+        "location": "79th St. & Grand Ave."
     }, 
     "Carver Playground": {
         "accessible": false, 
         "link": "/parks/carver-playground", 
-        "location": "Ralph Avenue &amp; Sumpter Street"
+        "location": "Ralph Avenue & Sumpter Street"
     }, 
     "Allen Shandler Recreation Area": {
         "accessible": false, 
@@ -3292,17 +3292,17 @@
     "Wayanda Park": {
         "accessible": false, 
         "link": "/parks/wayanda-park", 
-        "location": "Robard Lane &amp; 217 Street"
+        "location": "Robard Lane & 217 Street"
     }, 
     "174 St Playground": {
         "accessible": false, 
         "link": "/parks/st-albans-park", 
-        "location": "174 Street &amp; 113 Avenue"
+        "location": "174 Street & 113 Avenue"
     }, 
     "J. Hood Wright Park": {
         "accessible": true, 
         "link": "/parks/j-hood-wright-park", 
-        "location": "Ft. Washington &amp; Haven avenues, West 173 Street"
+        "location": "Ft. Washington & Haven avenues, West 173 Street"
     }, 
     "Fulton Park": {
         "accessible": false, 
@@ -3322,7 +3322,7 @@
     "St. Andrew's Playground": {
         "accessible": false, 
         "link": "/parks/st-andrews-playground", 
-        "location": "Atlantic Avenue &amp; Herkimer Street"
+        "location": "Atlantic Avenue & Herkimer Street"
     }, 
     "Rainey Park Playground": {
         "accessible": false, 
@@ -3337,17 +3337,17 @@
     "Holy Cow Playground": {
         "accessible": false, 
         "link": "/parks/Q300A1", 
-        "location": "Peck Ave. Between 64th Ave. &amp; 67th Ave."
+        "location": "Peck Ave. Between 64th Ave. & 67th Ave."
     }, 
     "Rodney Playground South": {
         "accessible": false, 
         "link": "/parks/rodney-playground-south", 
-        "location": "Rodney St. Between S. 3rd St. &amp; S. 4th St."
+        "location": "Rodney St. Between S. 3rd St. & S. 4th St."
     }, 
     "French Charley's Playground": {
         "accessible": false, 
         "link": "/parks/bronx-park", 
-        "location": "East 204 Street &amp; W/S Bronx Park"
+        "location": "East 204 Street & W/S Bronx Park"
     }, 
     "Seth Low Playground/Bealin Square": {
         "accessible": false, 
@@ -3372,7 +3372,7 @@
     "Laurelton West Playground": {
         "accessible": false, 
         "link": "/parks/laurelton-parkway", 
-        "location": "238th St. &amp; 120th Ave."
+        "location": "238th St. & 120th Ave."
     }, 
     "Orchard Beach Pavilion North": {
         "accessible": false, 
@@ -3382,12 +3382,12 @@
     "Mahoney Playground": {
         "accessible": false, 
         "link": "/parks/mahoney-playground", 
-        "location": "Beechwood &amp; Cleveland avenues"
+        "location": "Beechwood & Cleveland avenues"
     }, 
     "Daniel M. O'Connell Playground": {
         "accessible": false, 
         "link": "/parks/daniel-m-oconnell-playground", 
-        "location": "113 Avenue &amp; 196 Street"
+        "location": "113 Avenue & 196 Street"
     }, 
     "Meadow Lake North": {
         "accessible": false, 
@@ -3402,6 +3402,6 @@
     "Grover Cleveland Playground": {
         "accessible": false, 
         "link": "/parks/grover-cleveland-playground", 
-        "location": "Rene Court, Grandview Avenue, Stanjope Street &amp; Fairview Avenue"
+        "location": "Rene Court, Grandview Avenue, Stanjope Street & Fairview Avenue"
     }
 }
