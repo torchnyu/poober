@@ -20,6 +20,9 @@ const App = (props) => {
       setUserLong(position.coords.longitude);
     });
   };
+
+  getUserPosition();
+
   return <PRMap userLat={userLat} userLong={userLong}></PRMap>;
 };
 export default App;
