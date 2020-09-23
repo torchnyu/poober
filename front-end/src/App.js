@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { Typography, Grid, Fade, makeStyles } from "@material-ui/core";
+import React, { useState } from "react";
+import { makeStyles } from "@material-ui/core";
 import PRMap from "./PRMap.js";
 
 const useStyles = makeStyles((theme) => ({
@@ -9,8 +9,8 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const App = (props) => {
-  const classes = useStyles();
-  const apiLink = "your api link here";
+  // const classes = useStyles();
+  // const apiLink = "your api link here";
   const [userLat, setUserLat] = useState(null);
   const [userLong, setUserLong] = useState(null);
   const getUserPosition = () => {
@@ -20,9 +20,6 @@ const App = (props) => {
       setUserLong(position.coords.longitude);
     });
   };
-  return (
-    <PRMap userLat = {userLat} userLong = {userLong}
-    ></PRMap>
-  )
+  return <PRMap userLat={userLat} userLong={userLong}></PRMap>;
 };
 export default App;
