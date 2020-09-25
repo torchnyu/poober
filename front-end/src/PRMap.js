@@ -19,21 +19,6 @@ const PRMap = (props) => {
     </div>
   );
 
-  const containerStyle = {
-    width: "100%",
-    height: "50vh",
-  };
-
-  const defaultCenter = {
-    lat: 40.730816,
-    lng: -73.997438,
-  };
-
-  const center = {
-    lat: props.userLat,
-    lng: props.userLong,
-  };
-
   const locations = [
     {
       name: "Bobst",
