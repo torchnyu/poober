@@ -1,19 +1,21 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import GoogleMapReact from "google-map-react";
 import { Typography, Grid } from "@material-ui/core";
 import UserIcon from "@material-ui/icons/Person";
-import {
-  GoogleMap,
-  LoadScript,
-  Marker,
-  InfoWindow,
-} from "@react-google-maps/api";
+import LocationIcon from "@material-ui/icons/LocationOn";
 
 const PRMap = (props) => {
   const UserPin = () => (
     <div className="pin">
       <UserIcon style={{ height: "35px", width: "35px" }}></UserIcon>
       <Typography>You Are Here</Typography>
+    </div>
+  );
+
+  const LocationPin = ({ text }) => (
+    <div className="pin">
+      <LocationIcon style={{ height: "35px", width: "35px" }}></LocationIcon>
+      <Typography>{text}</Typography>
     </div>
   );
 
@@ -48,7 +50,7 @@ const PRMap = (props) => {
       },
     },
     {
-      name: "Location 3",
+      name: "Weinstein",
       location: {
         lat: 40.731121,
         lng: -73.995027,
@@ -66,37 +68,21 @@ const PRMap = (props) => {
 
   return (
     <Grid item>
-      {/* <div style={{ height: "50vh", width: "100%" }}>
+      <div style={{ height: "100vh", width: "100%" }}>
         <GoogleMapReact
           bootstrapURLKeys={{ key: "AIzaSyAtXV6jGE0cBsoBSSIh7P7-AO6oYx-wi-g" }}
-          defaultCenter={{ lat: 40.730816, lng: -73.997438 }}
+          defaultCenter={{ lat: props.userLat, lng: props.userLong }}
           defaultZoom={16}
           yesIWantToUseGoogleMapApiInternals
-        ></GoogleMapReact>
-      </div> */}
-
-      <LoadScript googleMapsApiKey="AIzaSyAtXV6jGE0cBsoBSSIh7P7-AO6oYx-wi-g">
-        <GoogleMap
-          mapContainerStyle={containerStyle}
-          defaultCenter={defaultCenter}
-          center={center}
-          zoom={16}
         >
-          {locations.map((item) => {
-            return <Marker key={item.name} position={item.location} />;
+          <UserPin lat={props.userLat} lng={props.userLong}></UserPin>
+          {locations.map((location, index) => {
+            return (
+              <LocationPin lat={location.location.lat} lng={location.location.lng} text={location.name}></LocationPin>
+            );
           })}
-
-          {/* {selected.location && (
-            <InfoWindow
-              position={selected.location}
-              clickable={true}
-              onCloseClick={() => setSelected({})}
-            >
-              <p>{selected.name}</p>
-            </InfoWindow>
-          )} */}
-        </GoogleMap>
-      </LoadScript>
+        </GoogleMapReact>
+      </div>
     </Grid>
   );
 };
