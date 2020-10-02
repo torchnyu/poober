@@ -5,12 +5,12 @@ import UserIcon from "@material-ui/icons/Person";
 import LocationIcon from "@material-ui/icons/LocationOn";
 
 const PRMap = (props) => {
-  const UserPin = () => (
-    <div className="pin">
-      <UserIcon style={{ height: "35px", width: "35px" }}></UserIcon>
-      <Typography>You Are Here</Typography>
-    </div>
-  );
+  // const UserPin = () => (
+  //   <div className="pin">
+  //     <UserIcon style={{ height: "35px", width: "35px" }}></UserIcon>
+  //     <Typography>You Are Here</Typography>
+  //   </div>
+  // );
 
   const LocationPin = ({ text }) => (
     <div className="pin">
@@ -60,10 +60,14 @@ const PRMap = (props) => {
           defaultZoom={16}
           yesIWantToUseGoogleMapApiInternals
         >
-          <UserPin lat={props.userLat} lng={props.userLong}></UserPin>
+          {/* <UserPin lat={props.userLat} lng={props.userLong}></UserPin> */}
           {locations.map((location, index) => {
             return (
-              <LocationPin lat={location.location.lat} lng={location.location.lng} text={location.name}></LocationPin>
+              <LocationPin
+                lat={location.location.lat}
+                lng={location.location.lng}
+                text={location.name}
+              ></LocationPin>
             );
           })}
         </GoogleMapReact>

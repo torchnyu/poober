@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { makeStyles, Typography } from "@material-ui/core";
 import PRMap from "./PRMap.js";
+import AddLoc from "./AddLoc.js";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -29,7 +30,12 @@ const App = (props) => {
 
   // getUserPosition();
   if (userLat != null) {
-    return <PRMap userLat={userLat} userLong={userLong}></PRMap>;
+    return (
+      // <div>
+      //   <PRMap userLat={userLat} userLong={userLong}></PRMap>
+      // </div>
+      <AddLoc></AddLoc>
+    );
   } else {
     return <Typography>Not loaded first!</Typography>;
   }
