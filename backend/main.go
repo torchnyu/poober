@@ -2,11 +2,30 @@ package main // dont even question it. dont ask the one person who is suppose to
 
 import "github.com/gin-gonic/gin" //every import path is a url
 import "io/ioutil"
+import "encoding/json"
+import "os"
+
+var parksBathrooms = func() map[string]bathroom{
+  dat, err := ioutil.ReadFile("./bathroomListings.json")
+  if err != nil {
+    os.Exit(1)
+  }
+  bathroomMap := make(map[string]bathroom)
+  json.Unmarshal([]byte(dat), &bathroomMap)
+  return bathroomMap
+}()
 
 type header struct{ // type nameoftype descriptionoftype
   Id int
   Value string
   Remainder float64
+}
+
+type bathroom struct {
+  Accessible bool `json:"accessible"`
+  Link string `json:"link"`
+  Location string `json:"location"`
+  Coordinate string `json:"coordinate"` //JSON is now incompatible; Back to compatible
 }
 
 func main() {
@@ -17,19 +36,13 @@ func main() {
 	})
   r.GET("/restrooms", fetchAll)
   r.GET("/parks", getBathrooms)
+  r.POST("/coordinates", postCoordinates)
 	r.Run() // listen and serve on 0.0.0.0:8080 (for windows "localhost:8080")
 
 }
 
 func getBathrooms(c *gin.Context){
-  dat, err := ioutil.ReadFile("./bathroomListings.json")
-  if err != nil {
-    c.JSON(500, err)
-    return
-  }
-  data := string(dat)
-  c.Header("Content-Type","application/json")
-  c.String(200, data)
+  c.JSON(200, parksBathrooms)
   return
 }
 
@@ -47,4 +60,17 @@ func fetchAll(c *gin.Context ){
 
 }
 
+func postCoordinates(c *gin.Context){
+  currentCoordinates := c.Query("coordinates")
+  parkName := c.Query("parkName")
+  bathroom := parksBathrooms[parkName]
+  bathroom.Coordinate = currentCoordinates
+  parksBathrooms[parkName] = bathroom
+}
+
 // lowercase is private
+// "Playground 52 LII": {
+//         "accessible": false, 
+//         "link": "/parks/playground-52-lii", 
+//         "location": "Kelly Street, St. John's Avenue, Beck Street"
+//     }, 
